@@ -1,28 +1,28 @@
-Cheren: Hey, \xf000Ā\x0001\x0000!\xf000븁\x0000I just challenged the\xfffegym leader Arti.\xf000븁\x0000
-He's definitely quite the gym leader...\xf000븁\x0000I got the badge, but it was\xfffehonestly pretty tricky.\xf000븁\x0000Well, not like I was going to have\xfffeany problems with bug types, anyway.\xf000븁\x0000
-I'm going to keep beating\xfffeall the gym leaders in Isshu.\xf000븁\x0000Then I'll head for the Pokémon\xfffeLeague and beat the Champion!\xf000븁\x0000Once I do that, everyone'll recognize\xfffeme as a powerful trainer...\xf000븁\x0000I really feel that's\xfffewhat I'm living for...\xf000븁\x0000
-Arti: Oho?\xf000븁\x0000You... Yes, you fought Team Plasma\xfffein Yaguruma Forest...\xf000븁\x0000And I believe your name was...xf000븁\x0000\xf000Ā\x0001\x0000!\xf000븁\x0000Perhaps you're here\xfffeto challenge my gym?\xf000븁\x0000
-Arti: Oho?\xf000븁\x0000You... Yes, you fought Team Plasma\xfffein Yaguruma Forest...\xf000븁\x0000And I believe your name was...xf000븁\x0000\xf000Ā\x0001\x0000!\xf000븁\x0000Perhaps you're here\xfffeto challenge my gym?\xf000븁\x0000
-Aww... er, I know it's awful of me,\xfffebut could you wait a little longer?\xf000븁\x0000I've heard word that\xfffeTeam Plasma is in town!\xf000븁\x0000You need to come too!\xfffeHead to Prime Pier!!\xf000븁\x0000
-Arti: ...\xf000븁\x0000There's no doubt,\xfffethis is the place.\xf000븁\x0000
-Grunt: Nope, sorry!\xf000븁\x0000There's no Plasma members\xfffeor Sages in here!\xf000븁\x0000You think I'm lying?\xfffeWanna fight about it?
-Grunt: ...Hmph.\xfffeNow scram!\xf000븁\x0000
-Grunt: Grrr!\xf000븁\x0000I'll take this weakling,\xfffeso you two go for\xf000븀\x0000the strong one over there!\xf000븁\x0000
-Pokémon are worked to their limit by\xfffeweak trainers! Think about how THEY feel!
-Get it?\xfffeSo we take people's Pokémon!!
-Arti: ...The nerve!\xf000븁\x0000\xf000Ā\x0001\x0000,\xfffeyou take care of them!\xf000븁\x0000
-Arti: ...The nerve!\xf000븁\x0000\xf000Ā\x0001\x0000,\xfffeyou take care of them!\xf000븁\x0000
-Arti: ...It seems battling is the\xfffeonly way we're getting in.
-Grunt: This is bad...\xf000븁\x0000This is awful, terrible,\xfffeworst, worst, worst!\xf000븁\x0000Team Plasma's been smashed again!\xfffePlasmashed, you could say!\xf000븁\x0000We'll have to report back\xfffeto the Sage for now...!\xf000븁\x0000
-Iris: ...Whew, I got lost.\xf000븁\x0000Even trying to work out directions over\xfffeLive Caster, it's all moonspeak to me!\xf000븁\x0000
-Arti: Team Plasma is right here.\xf000븁\x0000So maybe the Pokémon\xfffethey stole will be, too!\xf000븀\x0000Okay, I'm going in!\xf000븁\x0000
-Iris: Alrighty!\xfffeI'm fighting too this time!\xf000븀\x0000Hey, and missy Bel, too!\xf000븁\x0000
-Bel: H-Hold up, though...\xf000븁\x0000\xf000Ā\x0001\x0000, you need to come too!\xf000븁\x0000
-The Live Caster is ringing.
-\xf000Ā\x0001\x0000\xfffeanswered the call.\xf000븁\x0000
-What the gym leader is looking for is\xfffea bond between the challenger and\xf000븀\x0000their Pokémon... a definite relationship!
-Before you challenge the gym,\xfffeask yourself: do I have enough Potions?\xf000븀\x0000And make SURE you're sure that you do!
-As Pokémon trainers, no one\xfffehas a reason to become stronger.\xf000븁\x0000But loving your Pokémon\xfffeand playing together with them...\xf000븀\x0000That's something everyone can do.
-My bag has six Poké Balls in it!\xfffeMore than enough to catch anything!\xf000븁\x0000...Okay, actually, I'd like some\xfffeGreat Balls and Ultra Balls...\xf000븁\x0000But unless I get more gym badges,\xfffethe Friendly Shop won't sell me any.
+Cheren: Hey \xf000Ā\x0001\x0000.\xf000븁\x0000Combati mesmo agora com o Artie,\xfffeo líder de ginásio.\xf000븁\x0000
+Ele é um líder de ginásio, claro.\xf000븁\x0000Foi difícil ganhar\xfffeaquele crachá.\xf000븁\x0000Os de tipo Insecto não dão\xfffelá muitos problemas...\xf000븁\x0000
+Vou indo e ganhar a\xfffetodos os lideres da região Isshu.\xf000븁\x0000Depois disso vou para a Liga\xfffePokémon e ganhar ao Campeão!\xf000븁\x0000Feito isso, toda a gente vai\xfffereconhecer-me como o melhor treinador...\xf000븁\x0000Deve ser por isso que eu nasci\xfffepara combater e vencer...\xf000븁\x0000
+Arti: Oho?\xf000븁\x0000Tu... Sim, tu lutaste contra Team\xfffePlasma na Floresta Yaguruma...\xf000븁\x0000E eu acho que o teu nome é...xf000븁\x0000\xf000Ā\x0001\x0000!\xf000븁\x0000Estás aqui para combater no ginásio?\xf000븁\x0000
+Arti: Oho?\xf000븁\x0000Tu... Sim, tu lutaste contra Team\xfffePlasma na Floresta Yaguruma...\xf000븁\x0000E eu acho que o teu nome é...xf000븁\x0000\xf000Ā\x0001\x0000!\xf000븁\x0000Estás aqui para combater no ginásio?\xf000븁\x0000
+Aww... epa, eu sei que é mau da minha parte,\xfffemas podes esperar um tempo?\xf000븁\x0000Ouvi dizer que o\xfffeTeam Plasma está na cidade!\xf000븁\x0000Vem também!\xfffeEncontramo-nos no\xf000븀\x0000Cais Nobre!!\xf000븁\x0000
+Artie: ...\xf000븁\x0000Não há duvida,\xfffeé este o sitio.\xf000븁\x0000
+Plasma Grunt: Nope, desculpa!\xf000븁\x0000Não há membros do Plasma\xfffeou Sábios aqui!\xf000븁\x0000Achas que estou a mentir?\xfffeQueres combater é?
+Plasma Grunt: ...Hmph.\xfffeSumir!\xf000븁\x0000
+Plasma Grunt: Grrr!\xf000븁\x0000Eu vou tratar deste\xfffefracote.\xf000븁\x0000Voces os dois vão\xfffeali para o mais forte!\xf000븁\x0000
+Pensa como os Pokémon\xfffese sentem com fracotes!
+Eles são inúteis, mesmo\xfffese ficarmos com eles!
+Arti: ...Os nervos!\xf000븁\x0000\xf000Ā\x0001\x0000,\xfffetu tratas deles!\xf000븁\x0000
+Arti: ...Os nervos!\xf000븁\x0000\xf000Ā\x0001\x0000,\xfffetu tratas deles!\xf000븁\x0000
+Arti: ...A única maneira de entrarmos\xfffeé combater.
+Plasma Grunt: Isto está mau...\xf000븁\x0000Isto está mau, mesmo muito mau!\xf000븁\x0000O Team Plasma está a perder outra vez!\xfffe'Plasmashed', bem podes dize-lo!\xf000븁\x0000Nós vamos informar\xfffeao Sábio, por agora...!\xf000븁\x0000
+Iris: ...Whew, perdi-me.\xf000븁\x0000Mesmo tentar encontrar as direcções no\xfffe'Live Caster', é outra língua para mim!\xf000븁\x0000
+Artie: Arti: O Team Plasma está mesmo aqui.\xf000븁\x0000O Pokémon que roubaram\xfffetambém deve estar aqui!\xf000븀\x0000Okay, vou entrando!\xf000븁\x0000
+Iris: Vamos!\xfffeTambém vou combater!\xf000븀\x0000Hey, e a menina Bel, também!\xf000븁\x0000
+Bel: Espera um segundo...\xf000븁\x0000\xf000Ā\x0001\x0000, também vens!\xf000븁\x0000
+O Live Caster está a tocar.
+\xf000Ā\x0001\x0000\xfffeatendeu a chamada.\xf000븁\x0000
+O que o líder de ginásio está à procura é uma\xfffeligação entre o desafiador e \xf000븀\x0000os Pokémon dele... uma relação definida!
+Antes de desafiares o ginásio,\xfffepergunta a ti próprio: terei eu Poções suficientes?\xf000븀\x0000E certifica-te que tens mesmo suficientes!
+Como treinadores Pokémon, ninguém\xfffetem uma razão para se tornar forte.\xf000븁\x0000Mas amar os teus Pokémon\xfffee brincar junto com eles...\xf000븀\x0000É uma coisa que qualquer pessoa consegue fazer.
+A minha mochila têm seis Pokéballs dentro dela!\xfffeMais do que sufeciente para apanhar qualquer coisa!\xf000븁\x0000...Okay, na realidade, gostaria de ter algumas\xfffeGreat Balls e Ultra Balls...\xf000븁\x0000Mas se eu não conseguir mais crachás de ginásio,\xfffea amigável loja não me irá vender nada.
 My Pokémon are just the kyootest!\xf000븁\x0000When I come home totally beat,\xfffethey're always there to refresh me!
-Hiun Pokémon Gym\xf000븁\x0000\xfffeLeader: Arti\xf000븀\x0000\xfffeThe Insect Artist
+Ginásio Pokémon de Hiun\xf000븁\x0000\xfffeLíder: Atei\xf000븀\x0000\xfffeO Artista em Insectos
