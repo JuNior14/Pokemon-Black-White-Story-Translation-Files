@@ -1,14 +1,14 @@
 no data
-Shusaku: The bustle of the city has\xfffemade me stronger! Check me out!\xf000븁\x0000
-I guess I haven't had enough bustle...\xfffeI'll go feel the city breeze some more!
-Maybe the bustle here\xfffeis just too much for me...
-Hustle and bustle makes\xfffepeople mature faster...\xf000븀\x0000That sure describes this town, alright.
-Hiroko: Out of the corner of\xfffemy glasses, I see you!\xf000븀\x0000Let us do Pokémon battle!\xf000븁\x0000
-M... My glasses are cracked!\xfffeWas that a fantastic battle or what?!
-The time I've spent here\xfffehas been truly marvelous.\xf000븁\x0000But getting worked up every day...\xfffeit makes me yearn for nature!
-Through my glasses, I see many buildings!\xfffeRaised to fantastic, dizzying heights!
-Takuro: Oh! You haven't settled things with me!\xfffeShall we settle who's better?\xf000븀\x0000Let us do so by Pokémon battle!\xf000븁\x0000
-It's settled - you're the best!\xfffeNow walk the path of a real man!
+Shusaku: A agitação da cidade\xfffefez-me mais forte! Confere lá fora!\xf000븁\x0000
+Eu acho que não está agitado o suficiente...\xfffeEu vou sentir a brisa da cidade um pouco mais!
+Talvez a agitação aqui\xfffeseja muito pouco para mim ...
+Pressa e alvoroço faz\xfffeas pessoas amadurecerem mais rápido ...\xf000븀\x0000Isso com certeza, descreve esta cidade.
+Hiroko: Com o canto dos\xfffemeus óculos, eu vejo-te!\xf000븀\x0000Vamos fazer um combate Pokémon!\xf000븁\x0000
+M. .. Meus óculos estão rachados!\xfffeFoi um combate fantástico ou o quê?
+O tempo que passei aqui\xfffefoi realmente maravilhoso.\xf000븁\x0000Mas se exaltar todos os dias ...\xfffeisso faz-me ansiar por natureza!
+Através de meus óculos, eu vejo muitos prédios!\xfffeElevado à fantástico, alturas vertiginosas!
+Takuro: Oh! Tu não resolvestes as coisas comigo!\xfffeVamos resolver quem é melhor?\xf000븀\x0000Façamo-lo por combate Pokémon!\xf000븁\x0000
+Está resolvido - tu és o melhor!\xfffeAgora, anda no caminho de um homem de verdade!
 ツッパリすぎて くたびれたぜ\xf000븁\x0000ホワイトフォレストに\xfffeちょっぴり あこがれちゃうぜ
 シティの かぜで オレが かがやく！\xfffeどうだ いまの オレ\xf000븀\x0000サイコーに キマってるだろ？
 サトコ『あのおんね！ わたしと\xfffeポケモンしょうぶ せんけー！\xf000븁\x0000あいそらしい ポケモン\xfffeたくさん もっとれんてー！\xf000븁\x0000
@@ -119,4 +119,4 @@ It's settled - you're the best!\xfffeNow walk the path of a real man!
 あなたと ポケモンの コンビ\xfffeとても うつくしかったわ！！
 ひとが うみだせる\xfffeうつくしさには げんかいがある……\xf000븀\x0000このまちを みていると そうかんじる
 ひとがつくった このまちの\xfffeけいさん された うつくしさ……\xf000븀\x0000こころが おどりますわ
-This is Black City.\xfffeBut you could call it Kuroi Toshi.\xf000븀\x0000Or Negro de la Ciudad. Or... yeah.
+Esta é a Cidade Preta.\xfffeMas tu podes chamar Kuroi Toshi.\xf000븀\x0000Ou Negro de la Ciudad. Ou... yeah.
