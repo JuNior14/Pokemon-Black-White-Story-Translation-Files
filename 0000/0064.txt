@@ -1,22 +1,22 @@
 I see you've obtained\xfffea number of Isshu gym badges!\xf000븀\x0000Do you want me to explain them?
 Right, then.\xfffeCome again if you want to know.
-With the Tri Badge, all Pokémon\xfffeup to level 20 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
-With the Basic Badge, all Pokémon\xfffeup to level 30 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
-With the Beetle Badge, all Pokémon\xfffeup to level 40 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
-With the Bolt Badge, all Pokémon\xfffeup to level 50 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
-With the Quake Badge, all Pokémon\xfffeup to level 60 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
-With the Jet Badge, all Pokémon\xfffeup to level 70 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
-With the Icicle Badge, all Pokémon\xfffeup to level 80 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
-With the Legend Badge, all Pokémon\xfffewill obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
-What badge do you\xfffewant me to explain?
-Tri Badge
-Basic Badge
-Beetle Badge
-Bolt Badge
-Quake Badge
-Jet Badge
-Icicle Badge
-Legend Badge
-Quit
+Com o Trio Crachá, todos os Pokémon\xfffeaté ao nível 20 irão obedecer-te.\xf000븀\x0000Isto inclui Pokemon negociados.\xf000븁\x0000
+Com o Crachá Básico , todos os Pokémon\xfffeaté ao nível 30 irão obedecer-te.\xf000븀\x0000Isto inclui Pokemon negociados.\xf000븁\x0000
+Com o Crachá Besouro, todos os Pokémon\xfffeaté ao nível 40 irão obedecer-te.\xf000븀\x0000Isto inclui Pokemon negociados.\xf000븁\x0000
+Com o Crachá Relâmpago, todos os Pokémon\xfffeaté ao nível 50 irão obedecer-te.\xf000븀\x0000Isto inclui Pokemon negociados.\xf000븁\x0000
+Com o Crachá Terremoto, todos os Pokémon\xfffeaté ao nível 60 irão obedecer-te.\xf000븀\x0000Isto inclui Pokemon negociados.\xf000븁\x0000
+Com o Crachá Jacto, todos os Pokémon\xfffeaté ao nível 70 irão obedecer-te.\xf000븀\x0000Isto inclui Pokemon negociados.\xf000븁\x0000
+Com o Crachá Sincelo, todos os Pokémon\xfffeaté ao nível 80 irão obedecer-te.\xf000븀\x0000TIsto inclui Pokemon negociados.\xf000븁\x0000
+Com o Crachá Lendário, todos os Pokémon\xfffeirão obedecer-te.\xf000븀\x0000Isto inclui Pokemon negociados.\xf000븁\x0000
+What badge do you\xfffewant me to explain？
+Trio Crachá
+Crachá Básico
+Crachá Besouro 
+Crachá Relâmpago
+Crachá Terremoto
+Crachá Jacto
+Crachá Sincelo
+Crachá Lendário
+Sair
 Looking over the town from on high...\xfffeIt gives me shivers!\xf000븁\x0000Because I'm really\xfffescared of heights, that is...
-no data
+sem dados
