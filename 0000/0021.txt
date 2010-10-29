@@ -1,32 +1,32 @@
-Cheren: Come with me.\xf000븁\x0000
-Head straight this way\xfffeto get to the Pokémon Center.\xf000븁\x0000And... if you want,\xfffeyou can use this.\xf000븁\x0000
-Give a Chesto Berry to a Pokémon,\xfffeand even if it falls asleep,\xf000븀\x0000it'll use it to wake up.\xf000븁\x0000Lastly, some advice.\xf000븁\x0000The gym leader of Shippo City\xfffeuses normal-types.\xf000븁\x0000If you bring fighting-type Pokémon,\xfffethey'll probably be a great advantage.\xf000븁\x0000
-N: \xf000븉\x0001\x0001I... want to see things\xfffeno one else sees.\xf000븁\x0000The ideal for the Pokémon\xfffewe keep inside balls...\xf000븁\x0000The truth of what\xfffea "trainer" should be...\xf000븁\x0000And a future where Pokémon\xfffehave attained their zenith...\xf000븁\x0000Don't you wish to see them, too?\xf000븉\x0001\x0000
-N: \xf000븉\x0001\x0001Is that so?\xf000븁\x0000Then, can my friends and I\xfffeshow people the future?\xf000븀\x0000Allow me to test with you!\xf000븉\x0001\x0000\xf000븁\x0000
-N: \xf000븉\x0001\x0001...Hmph.\xfffeSo my expectations were incorrect.\xf000븁\x0000More importantly, can my friends and I\xfffeshow people the future?\xf000븀\x0000Allow me to test with you!\xf000븉\x0001\x0000\xf000븁\x0000
-N: \xf000븉\x0001\x0001As they are now, my Pokémon\xfffecannot save all Pokémon...\xf000븁\x0000The formula that can change the world\xfffeis yet to be solved...\xf000븁\x0000I require power... Power that\xfffewill let everyone understand...\xf000븉\x0001\x0000\xf000븁\x0000
+Cheren: Vem comigo.\xf000븁\x0000
+Se ires por este caminho vais\xfffeter rápido ao Centro Pokémon.\xf000븁\x0000E... se quiseres,\xfffepodes usar isto.\xf000븁\x0000
+Dou-te uma Chesto Berry para o Pokémon,\xfffee mesmo se estiver a dormir,\xf000븀\x0000podes o usar para acordar.\xf000븁\x0000Por ultimo, um conselho.\xf000븁\x0000O lider de ginásio de Shippo\xfffeé do tipo Normal.\xf000븁\x0000Se levares Pokémons tipo Lutador,\xfffeeles provavelmente têm uma boa vantagem.\xf000븁\x0000
+N: \xf000븉\x0001\x0001Eu... quero ver coisas\xfffeque ninguém vê.\xf000븁\x0000O ideal para o Pokémon\xfffeé deixa-los dentro das bolas...\xf000븁\x0000A verdade do que\xfffeum "treinador" deve ser...\xf000븁\x0000E um futuro onde os Pokémon\xfffeatingem o seu auge...\xf000븁\x0000Não os queres ver, também?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001É isso mesmo?\xf000븁\x0000Então, eu e os meus amigos\xfffepodemos mostrar ás pessoas o futuro?\xf000븀\x0000Permite-me testar contigo!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001...Hmph.\xfffeEntão as minhas expectativas\xfffeestavam correctas.\xf000븁\x0000Mais importante, eu e os meus amigos\xfffepodemos mostrar ás pessoas o futuro?\xf000븀\x0000Permite-me testar contigo!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Como eles estão agora, os meus Pokémon\xfffenão conseguem salvar todos Pokémon...\xf000븁\x0000A formula que pode mudar o mundo\xfffeestá ainda por resolver...\xf000븁\x0000IEu exijo poder... Poder este\xfffeque irá fazer perceber toda a gente...\xf000븉\x0001\x0000\xf000븁\x0000
 no data
-...I know what\xfffepower it is I need.\xf000븁\x0000...That of the legendary Pokémon that,\xfffetogether with a great hero,\xf000븀\x0000made this land of Isshu... Reshiram!\xf000븁\x0000I shall be your hero, Reshiram...\xfffeand I shall befriend you!\xf000븁\x0000
-...I know what\xfffepower it is I need.\xf000븁\x0000...That of the legendary Pokémon that,\xfffetogether with a great hero,\xf000븀\x0000made this land of Isshu... Zekrom!\xf000븁\x0000I shall be your hero, Zekrom...\xfffeand I shall befriend you!\xf000븁\x0000
-???: Hey, Miss Aloe!\xfffeFound any good fossils?\xf000븁\x0000
-Aloe: And are you\xfffeout lookin' for inspiration again?\xf000븁\x0000
-\xf000Ā\x0001\x0000!\xf000븁\x0000Take a good look at this guy,\xfffe'cause he's Arti,\xf000븀\x0000Hiun Gym's leader!\xf000븁\x0000
-Arti: ...Hmm? Is it just me,\xfffeor is something off about you?\xf000븁\x0000Could there have been...\xfffesome kind of trouble, maybe?\xf000븁\x0000
-Aloe: You bet there is!!\xfffeThey've got one of my exhibits!\xf000븁\x0000
-Bel: Heyyy, uh, \xf000Ā\x0001\x0000?\xfffeWhy's everyone bunched up here?\xf000븁\x0000
-Cheren: ...Is there a problem, \xf000Ā\x0001\x0000?\xf000븁\x0000
-Aloe: What's all this, then?\xfffeThese kids...\xf000븀\x0000they friends of yours?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000Bel and Cheren...\xfffealright, you must be trainers!\xf000븁\x0000Then let's split the work!\xfffeI'll go this way...\xf000븁\x0000
-Next, you kids!\xf000븁\x0000Cheren and Bel,\xfffewatch the museum for me!\xf000븁\x0000
-Then Arti and \xf000Ā\x0001\x0000'll go\xfffesearch Yaguruma Forest!\xf000븁\x0000Alright? Arti,\xfffeyou lead the way.\xf000븁\x0000I'm beggin' you all!\xf000븁\x0000
-Arti: Well now...\xfffeYou're... \xf000Ā\x0001\x0000, then?\xf000븁\x0000Well, shall we go?\xfffeLet's do away with those thieves!\xf000븁\x0000
-Arti: Well now...\xfffeYou're... \xf000Ā\x0001\x0000, then?\xf000븁\x0000Well, shall we go?\xfffeLet's do away with those thieves!\xf000븁\x0000
-Bel: Oh, \xf000Ā\x0001\x0000!\xfffeTake this with you!\xf000븁\x0000It's a Dowsing Machine\xfffeMakomo left with me!\xf000븁\x0000
-Using the Dowsing Machine\xfffewon't let you see invisible items, but\xf000븀\x0000it will let you see their locations!\xf000븁\x0000
-Cheren: Is it really... I don't know, safe\xfffeto leave us protecting the museum\xf000븀\x0000for the time being...?\xf000븁\x0000
-Bel: Oh, me too!\xf000븁\x0000
-Aloe: Doesn't seem Team Plasma\xfffewent over this way...\xf000븀\x0000But I'm not movin' an inch!\xf000븁\x0000You... Make sure you thoroughly\xfffesearch Yaguruma Forest!
-An old, unused clothes\xfffefactory and warehouse...\xf000븁\x0000Taken by hopeful youths\xfffeand converted into an atelier!\xf000븁\x0000And that's how Shippo City,\xfffeso-called town of the arts, began...
-This warehouse...\xfffeThey're selling good stuff inside!
+...Eu sei qual\xfffepoder é preciso.\xf000븁\x0000...Aquele do Pokémon Lendário aquele,\xfffejunto com um bom heroi,\xf000븀\x0000faz esta nação de Isshu... Reshiram!\xf000븁\x0000Eu devo ser o seu heroi, Reshiram...\xfffee devo ser um amigo para ti!\xf000븁\x0000
+...Eu sei qual\xfffepoder é preciso.\xf000븁\x0000...Aquele do Pokémon Lendário aquele,\xfffejunto com um bom heroi,\xf000븀\x0000faz esta nação de Isshu... Zekrom!\xf000븁\x0000Eu devo ser o seu heroi, Zekrom...\xfffee devo ser um amigo para ti!\xf000븁\x0000
+???: Hey, Menina Aloe!\xfffeEncontro alguns fosseis bons?\xf000븁\x0000
+Aloe: E tu estás\xfffeá procura de inspiração, outra vez?\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000OLha bem para este rapaz,\xfffeporque ele é o famoso Arty,\xf000븀\x0000Hiun Gym's leader!\xf000븁\x0000
+Arty: ...Hmm? Só sou eu,\xfffeou é algo fora de ti?\xf000븁\x0000Poderia aqui ter havido...\xfffealgum problemazito, talvez?\xf000븁\x0000
+Aloe: Podes apostar que sim!!\xfffeEles têm uma das minhas exposições!\xf000븁\x0000
+Bel: Heyyy, uh, \xf000Ā\x0001\x0000?\xfffePorque está toda gente ao monte aqui?\xf000븁\x0000
+Cheren: ...Há algum problema, \xf000Ā\x0001\x0000?\xf000븁\x0000
+Aloe: O que é isto tudo, então?\xfffeEstas crianças...\xf000븀\x0000são teus amigos?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000Bella e Cheren...\xfffeok, devem ser treinadores!\xf000븁\x0000Então vamos dividir as tarefas!\xfffeEu vou por este lado...\xf000븁\x0000
+A seguir, voçes crianças!\xf000븁\x0000Cheren e Bella,\xfffevigiem o museu por mim!\xf000븁\x0000
+O Arty e o \xf000Ā\x0001\x0000vão\xfffeprocuarar na Floresta Yaguruma!\xf000븁\x0000Está bem? Arty,\xfffetu lideras o caminho.\xf000븁\x0000Imploro a todos!\xf000븁\x0000
+Arti: Bem agora...\xfffeTu és... \xf000Ā\x0001\x0000, não é?\xf000븁\x0000Bem, vamos lá?\xfffeVamos acabar com estes ladrões!\xf000븁\x0000
+Arti: Bem agora...\xfffeTu és... \xf000Ā\x0001\x0000, não é?\xf000븁\x0000Bem, vamos lá?\xfffeVamos acabar com estes ladrões!\xf000븁\x0000
+Bel: Oh, \xf000Ā\x0001\x0000!\xfffeLeva isto contigo!\xf000븁\x0000é um Dowsing Machine\xfffea Makomo deu-mo!\xf000븁\x0000
+Ao usar o Dowsing Machine\xfffenão verás os items invisiveis, mas\xf000븀\x0000vai deixar-te as localizações deles!\xf000븁\x0000
+Cheren: É mesmo... Não sei, seguro\xfffedeixar-nos vigiar o museu\xf000븀\x0000por enquanto...?\xf000븁\x0000
+Bel: Oh, eu também!\xf000븁\x0000
+Aloe: Não parece que o Team Plasma\xfffefoi por este caminho...\xf000븀\x0000Mas eu não vou mexer uma unha!\xf000븁\x0000Tu... certifica-te que procuraste\xfffepor toda a parte da Floresta Yaguruma!
+Uma velha, inutilizavel fábrica\xfffede roupas e um armazém...\xf000븁\x0000Levado por bons jovens\xfffee convertido em um atelier!\xf000븁\x0000E é por isso que a cidade Shippo,\xfffea chamada de cidade das artes, começou...
+Este armazém...\xfffeEstão a vender coisas uteis lá dentro!
 To think a plain old warehouse\xfffecould have become this popular...\xf000븀\x0000The old values are shaking down!
 Shippo City is a town where\xfffepeople aspire to be stylish!\xf000븁\x0000Even the remarkably average\xfffecan be turned cool!
 How do you like the\xfffesound of my accordion?
