@@ -1,23 +1,23 @@
-﻿なにを しているか だって？\xf000븁\x0000たからさがし だよ\xfffeた・か・ら・さ・が・し！\xf000븁\x0000たからさがしは たのしいよ\xfffeたまに すなはまに うまっていてね\xf000븀\x0000さっきも おたからを みつけたんだ\xf000븁\x0000だけど すでに みつけた モノだから\xfffeきみに ゆずってあげるよ\xf000븁\x0000
-I found some treasure earlier.\xf000븁\x0000But I'd already found it,\xfffeso I'll just give it to you.\xf000븁\x0000
-I'll be here treasure hunting tomorrow.\xf000븁\x0000I just might find something, so\xfffestop by if you've got time, okay?
-Route 13
-Route 13
-Trainer Tips!\xf000븁\x0000\xfffe\xfffeWhen you're using\xfffethe Live Caster...\xf000븁\x0000\xfffePress any direction on the Control Pad\xfffeto make changes to the screen!
-Wheep-eep... eep...
-Wheen-wheen!
-Wheen! Wheeeeen!
-Wingull happily\xfffetook to the sky!\xf000븁\x0000...Oh?\xfffeIt dropped something.\xf000븁\x0000
-この キャモメね はいたつぶつを\xfffe３つ １３ばんどうろで\xf000븀\x0000なくしちゃった みたいなの\xf000븀\x0000どうにか してあげたいのだけど……
-この キャモメね\xf000븁\x0000はいたつぶつを ３つ \xfffe１３ばんどうろで\xf000븀\x0000なくしちゃった みたいなの\xf000븀\x0000どうにか してあげたいのだけど……\xf000븁\x0000
-あ すごい！\xfffeそれ はいたつぶつ じゃない？\xf000븀\x0000ちょっと みせて あげようよ！\xf000븁\x0000
-Two more to go!\xfffeWingull looks happy.
-One more to go!\xfffeWingull looks happy.
-You found them all!\xfffeYou've been a great help to Wingull!\xf000븁\x0000
-Thanks, trainer!\xf000븁\x0000It makes me happy\xfffeto see Pokémon happy!
-はて？\xfffeそらから てがみが おちてきたぞい？
-はいたつぶつ？\xf000븁\x0000はて もしかして これかね\xfffeさっき あたまに おちてきたのじゃよ\xf000븀\x0000キャモメに わたして あげなされ\xf000븁\x0000
-That Wingull was\xfffedoing its best for us!
-なんで わたしの だした\xfffeてがみが そらから ふってくるの……？
-なんで わたしの だした\xfffeてがみが そらから ふってくるの……？\xf000븁\x0000……なーんだ！\xfffeキャモメが おとしちゃったのね\xf000븁\x0000はい！ これ キャモメに わたして！\xfffeこんどは おとさないように ってね！\xf000븁\x0000
-クチベタな わたしは メールに\xfffeたびで かんじた きもちを かくの
+なにを　しているか　だって？\xf000븁\x0000たからさがし　だよ\xfffeた・か・ら・さ・が・し！\xf000븁\x0000たからさがしは　たのしいよ\xfffeたまに　すなはまに　うまっていてね\xf000븀\x0000さっきも　おたからを　みつけたんだ\xf000븁\x0000だけど　すでに　みつけた　モノだから\xfffeきみに　ゆずってあげるよ\xf000븁\x0000
+Eu encontrei um tesouro á pouco tempo.\xf000븁\x0000Eu já encontrei isso antes,\xfffepor isso podes ficar com ele.\xf000븁\x0000
+Eu vou ser um caçador de tesouros amanhã.\xf000븁\x0000Se me vires outra vez,\xfffedou-te alguns dos meus achados.
+Rota 13
+Rota 13
+Dicas de Treinador\xf000븁\x0000\xfffe\xfffeToma um recurso\xfffepara o 'Live Caster'.\xf000븁\x0000\xfffeTu podes pressionar em qualquer direção\xfffeno '+ Control Pad'.\xf000븁\x0000\xfffeIsso vai fazer várias mudanças\xfffeno ecrã do 'Live Caster' !
+Kyururu...ruu...
+Kyururuu!
+Kyuru!　Kyururuu!
+Wingull voou\xfffealegremente para longe!\xf000븁\x0000...Oh？\xfffeHá alguma coisa na Terra.\xf000븁\x0000
+この　キャモメね　はいたつぶつを\xfffe３つ　１３ばんどうろで\xf000븀\x0000なくしちゃった　みたいなの\xf000븀\x0000どうにか　してあげたいのだけど……
+この　キャモメね\xf000븁\x0000はいたつぶつを　３つ　\xfffe１３ばんどうろで\xf000븀\x0000なくしちゃった　みたいなの\xf000븀\x0000どうにか　してあげたいのだけど……\xf000븁\x0000
+あ　すごい！\xfffeそれ　はいたつぶつ　じゃない？\xf000븀\x0000ちょっと　みせて　あげようよ！\xf000븁\x0000
+Mais 2 para  ir !\xfffeO Wingull parece feliz.
+mais 1 para ir!\xfffeO Wingull parece feliz.
+Tu encontraste tudo!\xfffeO Wingull agradece a ajuda!\xf000븁\x0000
+Obrigado Sr. Treinador!\xf000븁\x0000Tu vais fazer muitos dos\xfffePokémon felizes!
+はて？\xfffeそらから　てがみが　おちてきたぞい？
+はいたつぶつ？\xf000븁\x0000はて　もしかして　これかね\xfffeさっき　あたまに　おちてきたのじゃよ\xf000븀\x0000キャモメに　わたして　あげなされ\xf000븁\x0000
+Aquele Wingull esteve a\xfffetrabalhar muito para nós!
+なんで　わたしの　だした\xfffeてがみが　そらから　ふってくるの……？
+なんで　わたしの　だした\xfffeてがみが　そらから　ふってくるの……？\xf000븁\x0000……なーんだ！\xfffeキャモメが　おとしちゃったのね\xf000븁\x0000はい！　これ　キャモメに　わたして！\xfffeこんどは　おとさないように　ってね！\xf000븁\x0000
+クチベタな　わたしは　メールに\xfffeたびで　かんじた　きもちを　かくの
