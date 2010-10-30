@@ -1,10 +1,10 @@
-Welcome!\xfffeWhat do you need?
-Welcome to the TM counter!\xfffeWhat do you need?
-Is there anything else I may do\xfffefor you?
-Please come again!
- 
-Buy
-Sell
-Cancel
-Welcome!\xfffeThis is the Point Exchange Corner!\xf000븁\x0000\xfffeWill you exchange\xfffeBP for prizes?
-Collect more BP,\xfffeand do come back again!
+Bem-vindo!\xfffeEm que posso ajudar?
+Bem-vindo á Loja das TMs!\xfffeEm que posso ajudar?
+Há mais alguma coisa que posso fazer\xfffepor ti?
+Por favor volte sempre!
+Bem-vindo!\xf000븁\x0000
+Comprar
+Vender
+Esqueça
+ようこそ！\xfffeポイント　ひきかえ　コーナーへ！\xf000븁\x0000\xfffeＢＰと　けいひんを\xfffeこうかん　しますか？
+ＢＰを　ためて\xfffeまた　おこしくださいね！
