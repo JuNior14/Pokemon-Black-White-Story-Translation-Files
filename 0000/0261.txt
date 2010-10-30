@@ -1,9 +1,9 @@
-Quit
-1st Floor
-2nd Floor
-3rd Floor
-11th Floor
-22th Floor
-47th Floor
-55th Floor
-Where do you want to go?
+Sair
+1º Andar
+2º Andar
+3º Andar
+11º Andar
+22º Andar
+47º Andar
+55º Andar
+Onde tu queres ir?
