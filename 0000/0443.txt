@@ -1,15 +1,15 @@
-This is a Pokéball I got\xfffea really long time ago...\xf000븀\x0000\xfffeHow about I give it to you?\xf000븁\x0000
-Without a Pokéball,\xfffeyou can't catch Pokémon!\xf000븁\x0000\xfffeThere are many kinds of Pokéballs,\xfffeso use them well.
+Esta é uma Pokéball que eu recebi\xfffeà muito tempo...\xf000븀\x0000\xfffeQue tal eu oferecer-te?\xf000븁\x0000
+Sem uma Pokéball,\xfffenão consegues apanhar Pokémon!\xf000븁\x0000\xfffeHá muitos tipos de Pokéballs,\xfffeentão usa-as bem.
 Chee-chee!
-Hey there!\xfffeLet's play Rock Paper Pokémon!
-Well, gosh...\xfffeYou're boring!
-Okay, here goes!\xfffeRoooock, Papeeeer...
-You're fire,\xfffeand I'm grass...\xf000븁\x0000Grass-types are\xfffeweak to fire-types...\xf000븀\x0000Which means I lose...
-You're fire,\xfffeand I'm water...\xf000븁\x0000Fire-types are\xfffeweak to water-types!\xf000븀\x0000Which means I win!
-You're water,\xfffeand I'm fire...\xf000븁\x0000Fire-types are\xfffeweak to fire-types...\xf000븀\x0000Which means I lose...
-You're water,\xfffeand I'm grass...\xf000븁\x0000Water-types are\xfffeweak to grass-types!\xf000븀\x0000Which means I win!
-You're grass,\xfffeand I'm water...\xf000븁\x0000Water-types are\xfffeweak to grass-types...\xf000븀\x0000Which means I lose...
-You're grass,\xfffeand I'm fire...\xf000븁\x0000Grass-types are\xfffeweak to fire-types!\xf000븀\x0000Which means I win!
-Fire!
-Grass!
-Water!
+Olá!\xfffeVamos jogar Pedra Papel Pokémon!
+Bem, caramba...\xfffeTu és chato!
+Okay, aqui vai!\xfffePeeedra, Papeeeel...
+Tu és fogo,\xfffeand Eu sou erva...\xf000븁\x0000Tipos de Erva são\xfffefracos contra tipos de fogo...\xf000븀\x0000O que significa que eu perdi...
+Tu és fogo,\xfffeand Eu sou água...\xf000븁\x0000Tipos de Fogo são\xfffefracos contra tipos de àgua!\xf000븀\x0000O que significa que eu ganhei!
+Tu és água,\xfffeand Eu sou fogo...\xf000븁\x0000Tipos de Fogo são\xfffefracos contra tipos de àgua...\xf000븀\x0000O que significa que eu perdi...
+Tu és água,\xfffeand Eu sou erva...\xf000븁\x0000Tipos de Àgua são\xfffefracos contra tipos de erva!\xf000븀\x0000O que significa que eu ganhei!
+Tu és erva,\xfffeand Eu sou água...\xf000븁\x0000Tipos de Àgua são\xfffefracos contra tipos de erva...\xf000븀\x0000O que significa que eu perdi...
+Tu és erva,\xfffeand Eu sou fogo...\xf000븁\x0000Tipos de Erva são\xfffefracos contra tipos de fogo!\xf000븀\x0000O que significa que eu ganhei!
+Fogo!
+Erva!
+Água!
