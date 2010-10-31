@@ -54,7 +54,7 @@ Cheren: Pergunto-me?\xfffeVais lutar comigo a serio?
 Bem, vamos começar...\xfffeTenho que admitir, estou um bocado nervoso!\xf000븁\x0000Por isso se perder, é isso!\xfffeSim, de estar nervoso...!\xf000븁\x0000Bem, vamos lá!\xfffeBoa Sorte \xf000ā\x0001\x0001, Espero que ganhes！\xf000븁\x0000
 Cheren: Ves...?\xfffeCombater com um Pokemon da-te uma ligação.\xf000븁\x0000Essa ligação é importante...\xfffeVai te ajudar a vencer!\xf000븁\x0000Mas também...\xfffeCombater a serio é divertido!\xf000븀\x0000Tinhas razão Bel...\xf000븁\x0000
 Cheren: Ves...?\xfffeCombater com um Pokemon da-te uma ligação.\xf000븁\x0000Essa ligação é importante...\xfffeVai te ajudar a vencer!\xf000븁\x0000Mas também...\xfffeCombater a serio é divertido!\xf000븀\x0000Tinhas razão Bel...\xf000븁\x0000
-Cheren: この　かんどう……\xfffeようやく　トレーナーに　なれたんだ\xf000븁\x0000……じゃなくて\xfffeへやのこと　きみの　ママに\xf000븀\x0000あやまらないと　いけないね\xf000븁\x0000
+Cheren: This intense excitement...\xfffeI've finally become a trainer!\xf000븁\x0000...And yet, I suppose we'll have to\xfffeapologize for the state of your room\xf000븀\x0000to your mom.\xf000븁\x0000
 Bel: Bem... Onde estão as maneiras...\xfffeVamos lá para baixo!!!\xf000븁\x0000Oh espera, Eu sei porque ele é tão farto!\xfffeEle não pode toma-lo como certo!\xf000븁\x0000Bem, vamos lá para baixo!\xfffeEu fico lá á tua espera!\xf000븁\x0000
 A Wii!\xfffeTem controlo remoto!
 A Wii!\xf000븁\x0000Não está de todo estragado!
