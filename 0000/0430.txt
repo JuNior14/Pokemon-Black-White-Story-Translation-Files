@@ -44,12 +44,12 @@ Cheren: Bem, os vossos Pokémon ficaram\xfffeferidos após o combate!\xf000븁\x
 Cheren curou o Pokemon da　Bel!\xfffeEstá melhor e saudável!
 \xf000Ā\x0001\x0000, Vou também curar o teu \xfffePokémon...\xf000븁\x0000
 Cheren curou o Pokemon do \xf000Ā\x0001\x0000!\xfffeEstá melhor e saudável!
-Cheren: ポケモンの　たいりょく……\xfffeＨＰを　へらすことなく\xf000븀\x0000しょうりするのは　すごいよ\xf000븁\x0000だけど　ポケモンの　わざポイント……\xfffeＰＰが　へっているからね\xf000븁\x0000
+Cheren: A victory accomplished without\xfffereducing the Pokémon's HP... astounding!\xf000븁\x0000Rather, it was because the\xfffePokémon ran out of PP...\xf000븁\x0000
 Bel: Hey! Cheren, porque não\xfffecombates também?\xf000븁\x0000É muito divertido!\xfffeEntão... Vais combater?\xf000븀\x0000Pensa no divertido que é!\xf000븁\x0000
 Cheren: Okay...!\xf000븁\x0000É bom para testar as minhas leituras!\xfffeOkay, vou combater!\xf000븀\x0000Vou combater também!\xf000븁\x0000Se dizes que combater é divertido,\xfffeentão por que não experimentar?\xf000븀\x0000Não tenho nada a perder!\xf000븁\x0000
-\xf000Ā\x0001\x0000……\xf000븁\x0000へやは　よごさないと　ちかうから\xfffeぼくとも　しょうぶ　してくれないか？\xf000븀\x0000よければ　はなしかけてよ
+\xf000Ā\x0001\x0000...\xf000븁\x0000I swear I won't ruin your room,\xfffeso would you battle me, too?\xf000븀\x0000Talk to me when you're ready.
 Cheren: Hey!\xf000븁\x0000
-Bel: あたしね　\xf000Ā\x0001\x0000と\xfffeCherenの　ポケモンしょうぶ　って\xf000븀\x0000ぜったいに　みごたえ　あるとおもう！
+Bel: Me, I totally wanna see \xf000Ā\x0001\x0000\xfffeand Cheren duke it out in Pokémon!
 Cheren: Pergunto-me?\xfffeVais lutar comigo a serio?
 Bem, vamos começar...\xfffeTenho que admitir, estou um bocado nervoso!\xf000븁\x0000Por isso se perder, é isso!\xfffeSim, de estar nervoso...!\xf000븁\x0000Bem, vamos lá!\xfffeBoa Sorte \xf000ā\x0001\x0001, Espero que ganhes！\xf000븁\x0000
 Cheren: Ves...?\xfffeCombater com um Pokemon da-te uma ligação.\xf000븁\x0000Essa ligação é importante...\xfffeVai te ajudar a vencer!\xf000븁\x0000Mas também...\xfffeCombater a serio é divertido!\xf000븀\x0000Tinhas razão Bel...\xf000븁\x0000
