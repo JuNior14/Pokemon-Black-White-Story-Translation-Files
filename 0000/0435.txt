@@ -23,8 +23,8 @@ Bel: Isto é espectacular vamos lá!\xf000븀\x0000Do que estamos á espera?\xf0
 Cheren: Espera!\xf000븁\x0000Tenho de ir a minha casa depressa\xfffee dizer aos meus pais!
 Bel: Vai lá.\xf000븁\x0000Encontramo-nos lá fora.
 Cheren: ……\xf000븁\x0000Estou a ficar mesmo muito nervoso..
-Araragi: ハーイ!　\xf000Ā\x0001\x0000!\xfffeさいきんの　ちょうしは　どう?\xf000븁\x0000
-Papa Araragi: よお　\xf000Ā\x0001\x0000!\xfffeポケモンと　であっておるか?\xf000븁\x0000イッシュちほうは　もちろん\xfffeせかいには　ほんとうに\xf000븀\x0000おおくの　ポケモンが　いるぞ!
+Araragi: Hiiiii there, \xf000Ā\x0001\x0000!\xfffeHow you been feeling lately?\xf000븁\x0000
+Araragi's Dad: Ho there, \xf000Ā\x0001\x0000!\xfffeFinding Pokémon out there?\xf000븁\x0000Isshu... why, of course, the whole\xfffeworld has so many Pokémon in it!
 sem dados
 sem dados
 sem dados
