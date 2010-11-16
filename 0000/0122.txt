@@ -1,84 +1,84 @@
-﻿Wyza: Heeey!\xfffeCome, this waaay!\xf000븁\x0000
-Wyza: Th-thump, th-thump!\xfffeIt's the Thrill Quiz!\xf000븁\x0000Here is today's\xfffeCHALLENGEEEEER!\xf000븁\x0000
-Gawdit: Hello, welcome!\xf000븁\x0000Thrill Quiz!\xfffeCOMMENCE!\xf000븁\x0000Hold on tight,\xfffe'cause you'll be thrilled!\xf000븁\x0000Straight to the question!\xf000븁\x0000
-Ansa: Good luuuck!\xf000븁\x0000
-Gawdit: QUESTION!\xf000븁\x0000
-Wyza: Why!\xfffeThat one's a toughie!\xf000븀\x0000Can you even answer it?!\xf000븁\x0000
-Ansa: Give! A! HINT! Give! A! HINT!\xf000븁\x0000
-Gawdit: What's this?!\xfffeThe audience demands a hint!\xf000븁\x0000
-Wyza: Very well!\xfffeGive them what they want!\xf000븁\x0000
-Gawdit: Ah, now that's\xfffea clever hint!\xf000븁\x0000Well, challenger, your answer!\xf000븁\x0000
-Gawdit: HOORAH!\xfffeCOR-RECT!\xf000븁\x0000
-Wyza: Great! You're amazing!\xf000븁\x0000
-Ansa: Whooooo! WHOOOOO!\xfffeGreat effort! Great effort!\xf000븁\x0000
-Gawdit: Congratulations!\xf000븁\x0000Here's your\xfffeAntidote prize!\xf000븁\x0000
-Gawdit: Aww... too bad!\xfffeJust TOO bad! That's incorrect!\xf000븁\x0000
-Wyza: Ohhh... unbelievable!\xf000븁\x0000
-Ansa: Great effort!\xfffeGreffort! Greffort!\xf000븁\x0000
-Gawdit: Yes, greffort indeed!\xf000븁\x0000Well... here's a\xfffeParalyz Heal memento!\xf000븁\x0000
-Wyza: Th-thump, th-thump!\xfffeThat was the Thrill Quiz!\xf000븀\x0000Let's meet again tomorrow!
-Gawdit: You like quiz shows?
-Wyza: I wanna be on TV!
-Ansa: GREFFOOORT!
-What's the abbreviation\xfffeof Pocket Monster?\xf000븁\x0000
-What word is used to celebrate\xfffea great accomplishment?\xf000븁\x0000
-What's the opposite\xfffeof analog?\xf000븁\x0000
-What do you pay with\xfffewhen you go shopping?\xf000븁\x0000
-What do you get when\xfffetwo lovers come together?\xf000븁\x0000
-What's a father's\xfffeyounger brother called?\xf000븁\x0000
-Who teaches you\xfffethings at school?\xf000븁\x0000
-Do Pokémon hold\xfffemail or Huntail?\xf000븁\x0000
-What moves by\xfffeway of pedaling?\xf000븁\x0000
-What's a two-on-two\xfffePokémon battle called?\xf000븁\x0000
-What do you use\xfffeto take pictures?\xf000븁\x0000
-Where do you go\xfffewhen you bathe?\xf000븁\x0000
-What's the facility\xfffethat heals your Pokémon?\xf000븁\x0000
-What ability goes up\xfffewhen you use Protein?\xf000븁\x0000
-What Pokémon changes form\xfffewith season without evolving?\xf000븁\x0000
-What's the electric Pokémon that\xfffereleases energy from its mane?\xf000븁\x0000
-What's the Pokémon\xfffemade up of two gears?\xf000븁\x0000
-What's the big-eared\xfffeflying squirrel Pokémon?\xf000븁\x0000
-What's the\xfffeClinging Pokémon?\xf000븁\x0000
-What's the\xfffepigeon Pokémon?\xf000븁\x0000
-What's the flower-adorned Pokémon\xfffewith leaves on its head?\xf000븁\x0000
-What's the Healing Pokémon\xfffewith good hearing?\xf000븁\x0000
-What's the\xfffecasket Pokémon?\xf000븁\x0000
-What's the evolution\xfffeof Koromori?\xf000븁\x0000
-What's the evolution\xfffeof Darumakka?\xf000븁\x0000
-What's the Pokémon that\xfffelooks after weak Pokémon?\xf000븁\x0000
-What's the\xfffeTrance Pokémon?\xf000븁\x0000
-What's the beautiful,\xfffewhite-winged swan Pokémon?\xf000븁\x0000
-What's the Trap Pokémon\xfffethat hides in mud?\xf000븁\x0000
-What move lets you\xffferide a Pokémon over water?\xf000븁\x0000
-What day is today?\xf000븁\x0000
-Hint!\xfffeIt's not "Kémons"!\xf000븁\x0000
-Hint!\xfffeIt rewards your hard work!\xf000븁\x0000
-Hint!\xfffeIt's not "golana"!\xf000븁\x0000
-Hint!\xfffeIt's in your wallet!\xf000븁\x0000
-Hint!\xfffeMake it double!\xf000븁\x0000
-Hint!\xfffeIt's not "big bro"!\xf000븁\x0000
-Hint!\xfffeIt's an adult!\xf000븁\x0000
-Hint!\xfffeIt's not Huntail!\xf000븁\x0000
-Hint!\xfffeIt has two tires!\xf000븁\x0000
-Hint!\xfffeA one-on-one is a Single!\xf000븁\x0000
-Hint!\xfffeThink "say cheese"!\xf000븁\x0000
-Hint!\xfffeThe kitchen is too small!\xf000븁\x0000
-Hint!\xfffeIt's not a convenience store!\xf000븁\x0000
-Hint!\xfffeIt's not beauty!\xf000븁\x0000
-Hint!\xfffeIt didn't come from space!\xf000븁\x0000
-Hint!\xfffeNot quite the Lightning Pokémon!\xf000븁\x0000
-Hint!\xfffeIt's in Thunderstone Cave!\xf000븁\x0000
-Hint!\xfffeOne of its types is flying!\xf000븁\x0000
-Hint!\xfffeIt's a really tiny Pokémon!\xf000븁\x0000
-Hint!\xfffeIt weighs about 33 pounds!\xf000븁\x0000
-Hint!\xfffeIt's not a seed or a turtle!\xf000븁\x0000
-Hint!\xfffeYou could be right!\xf000븀\x0000Maybe! There's a chance!\xf000븁\x0000
-Hint!\xfffeIt's a ghost type!\xf000븁\x0000
-Hint!\xfffeIt's got a big heart!\xf000븁\x0000
-Hint!\xfffeIt's not a snowman!\xf000븁\x0000
-Hint!\xfffeIt's not a fire type!\xf000븁\x0000
-Hint!\xfffeIt's the evolution of\xf000븀\x0000the Dreameater Pokémon!\xf000븁\x0000
-Hint!\xfffeIt's a swan... nah, too easy!\xf000븁\x0000
-Hint!\xfffeIt's an electric and ground type!\xf000븁\x0000
-Hint!\xfffeIt's not Fly!\xf000븁\x0000
-Hint!\xfffeIt has to do with you, \xf000Ā\x0001\x0000!\xf000븁\x0000
+﻿Wyza: Hey!\xfffeVem, por aquiii!\xf000븁\x0000
+Wyza: Pu-umm, Pu-umm\xfffeÉ o Questinário Emoção!\xf000븁\x0000Aqui está hoje um\xfffeDESAFIANTEEEE!\xf000븁\x0000
+Gawdit: Olá, bem-vindo!\xf000븁\x0000Questionário Emoção!\xfffeCOMEÇAAAR!\xf000븁\x0000Segura-te bem,\xfffeporque tu vais emocionar-te!\xf000븁\x0000Directo para a questão!\xf000븁\x0000
+Ansa: Boa Soorte!\xf000븁\x0000
+Gawdit: QUESTÃO!\xf000븁\x0000
+Wyza: PORQUE!\xfffeAquela é uma pergunta dificil!\xf000븀\x0000Consegues responder?!\xf000븁\x0000
+Ansa: Dá! Uma! DICA! Dá! Uma! DICA!\xf000븁\x0000
+Gawdit: O que é isso?\xfffeO público exige uma dica!\xf000븁\x0000
+Wyza: Muito bem!\xfffeDê-lhes o que querem!\xf000븁\x0000
+Gawdit: Ah, agora que é\xfffeuma sugestão inteligente!\xf000븁\x0000Bem, desafiador, a sua resposta!\xf000븁\x0000
+Gawdit: HOORAH!\xfffeCOR-RECTO!\xf000븁\x0000
+Wyza: Óptimo! Tu és incrível!\xf000븁\x0000
+Ansa: Whooooo! WHOOOOO!\xfffeGrande esforço! Grande esforço!\xf000븁\x0000
+Gawdit: Parabéns!\xf000븁\x0000Aqui está o teu\xfffeprêmio, um antídoto!\xf000븁\x0000
+Gawdit: Aww ... muito mau!\xfffeMuito mau! Isso está incorrecto!\xf000븁\x0000
+Wyza: Ohhh ... inacreditável!\xf000븁\x0000
+Ansa: Grande tentativa!\xfffeGrâ-tentativa! Grã-tentativa!\xf000븁\x0000
+Gawdit: Sim, grande tentativa defacto!\xf000븁\x0000Bem ... aqui vai\xfffeuma lembrança um Paralyz Heal!\xf000븁\x0000
+Wyza: Pu-umm, Pu-umm!\xfffeEsse foi o Questionário da Emoção!\xf000븀\x0000Vamos nos encontrar novamente amanhã!
+Gawdit: Tu gosta de programas de perguntas?
+Wyza: Eu quero estar na TV!
+Ansa: Grande Tentativa!
+Qual é a abreviação\xfffede Pocket Monster?\xf000븁\x0000
+Que palavra é usada para celebrar\xfffeuma grande conquista?\xf000븁\x0000
+Qual é o oposto\xfffede analógico?\xf000븁\x0000
+O que compras quando\xfffevais ao Centro Comercial?\xf000븁\x0000
+O que tu ganhas quando\xfffedois amantes se juntam?\xf000븁\x0000
+Como é chamado o irmão\xfffemais novo do seu pai?\xf000븁\x0000
+Quem te ensina\xfffecoisas na escola?\xf000븁\x0000
+O Pokémon segura\xfffemail ou Huntail?\xf000븁\x0000
+O que se move\xfffepor meio de pedaladas?\xf000븁\x0000
+Como é chamado a batalha\xfffePokémon de dois-em-dois?\xf000븁\x0000
+O que tu usas\xfffepara tirar fotografias?\xf000븁\x0000
+Onde vais quando\xfffetomas banho?\xf000븁\x0000
+Qual é o instrumento\xfffeque cura o teu Pokémon?\xf000븁\x0000
+Qual é a habilidade que\xfffesobe quando tu usas a Proteina?\xf000븁\x0000
+Qual Pokemon muda de forma\xfffecom a estação sem evoluir?\xf000븁\x0000
+Qual é o Pokémon elétrico que\xfffeliberta energia a partir de sua juba?\xf000븁\x0000
+Qual é o Pokémon composto\xfffede duas engrenagens?\xf000븁\x0000
+Qual é o Pokémon\xfffeesquilo, orelhudo e voador?\xf000븁\x0000
+Qual é o\xfffePokémon pegajoso?\xf000븁\x0000
+Qual é o\xfffePokémon pombo?\xf000븁\x0000
+Qual é o Pokémon de flores enfeitadas\xfffecom folhas em sua cabeça?\xf000븁\x0000
+Qual é o Pokémon que cura\xfffecom uma boa audição?\xf000븁\x0000
+Qual é o\xfffePokémon caixão?\xf000븁\x0000
+Qual é a evolução\xfffedo Koromori?\xf000븁\x0000
+Qual é a evolução\xfffedo Darumakka?\xf000븁\x0000
+Qual é o Pokémon que\xfffecuida dos Pokémon fracos?\xf000븁\x0000
+Qual é o\xfffePokémon Transe?\xf000븁\x0000
+Qual é o lindo,\xfffePokémon cisne de asas brancas?\xf000븁\x0000
+Qual é o Pokémon armadilha\xfffeque se esconde na lama?\xf000븁\x0000
+Qual movimento lhe permite\xfffemontar um Pokemon sobre a agua?\xf000븁\x0000
+Que dia é hoje?\xf000븁\x0000
+Dica!\xfffeNão é "Kémons"!\xf000븁\x0000
+Dica!\xfffeRecompensa ao trabalho duro!\xf000븁\x0000
+Dica!\xfffeNão é "golana"!\xf000븁\x0000
+Dica!\xfffeEstá na sua carteira!\xf000븁\x0000
+Dica!\xfffeFaça isso duas vezes!\xf000븁\x0000
+Dica!\xfffeNão é "big bro"!\xf000븁\x0000
+Dica!\xfffeÉ um adulto!\xf000븁\x0000
+Dica!\xfffeNum é Huntail!\xf000븁\x0000
+Dica!\xfffeTem dois pneus!\xf000븁\x0000
+Dica!\xfffeUm um-vs-um é um simples!\xf000븁\x0000
+Dica!\xfffePense "Diga Queijo"!\xf000븁\x0000
+Dica!\xfffeA cozinha é muito pequena!\xf000븁\x0000
+Dica!\xfffeNão é uma loja de conveniência!\xf000븁\x0000
+Dica!\xfffeNão é beleza!\xf000븁\x0000
+Dica!\xfffeEle não veio do espaço!\xf000븁\x0000
+Dica!\xfffeNão é quieto o Pokemon do Relâmpago!\xf000븁\x0000
+Dica!\xfffeÉ na caverna da Pedra de Trovão!\xf000븁\x0000
+Dica!\xfffeUm dos teus tipos é voador!\xf000븁\x0000
+Dica!\xfffeÉ um Pokémon muito pequeno!\xf000븁\x0000
+Dica!\xfffeEle pesa cerca de 33 quilos!\xf000븁\x0000
+Dica!\xfffeNão é uma semente ou uma tartaruga!\xf000븁\x0000
+Dica!\xfffeTu podes estar certo!\xf000븀\x0000Talvez! Há uma chance!\xf000븁\x0000
+Dica!\xfffeÉ um tipo fantasma!\xf000븁\x0000
+Dica!\xfffeTem um grande coração!\xf000븁\x0000
+Dica!\xfffeNão é um boneco de neve!\xf000븁\x0000
+Dica!\xfffeNão é um tipo fogo!\xf000븁\x0000
+Dica!\xfffeÉ a evolução do\xf000븀\x0000Pokémon Sonhador!\xf000븁\x0000
+Dica!\xfffeÉ um cisne ... nah, muito fácil!\xf000븁\x0000
+Dica!\xfffeÉ um tipo elétrico e terra!\xf000븁\x0000
+Dica!\xfffeEle não voa!\xf000븁\x0000
+Dica!\xfffeTem a ver contigo, \xf000Ā\x0001\x0000!\xf000븁\x0000
