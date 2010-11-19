@@ -6,5 +6,5 @@ GVUCYVQPVUWOGPQ
 UWQKEGTRUKNNC
 UTCGVGVCGTEUTCY
 FGGTICHKGPKJU
-It seems you can go up here!\xf000븁\x0000Continue to the upper floor?
-It seems you can go down here!\xf000븁\x0000Return to the lower floor?
+Parece que podes ir até lá cima!\xf000븁\x0000Continuar para o piso superior?
+Parece que podes ir até lá baixo!\xf000븁\x0000Voltar ao piso inferior?
