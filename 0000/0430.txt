@@ -30,11 +30,11 @@ Cheren: Bel, já fizeste alguma Batalha?\xf000븁\x0000Deves habituar-te ao teu 
 Bel: Mas tu adepto do:\xfffe"A melhor forma de aprender é fazendo!"\xf000븀\x0000Por isso... Esta é a melhor forma!\xf000븁\x0000Vamos lá　\xf000Ā\x0001\x0000！\xfffeVamos batalhar!\xf000븁\x0000
 Heyyy!\xfffeLet's Pokémon battle!\xf000븁\x0000When you're ready, \xf000Ā\x0001\x0000,\xfffecome talk to me!
 ...The box is empty.
-Cheren: Hrm... right.\xfffeWould you battle me?\xf000븁\x0000ポケモンを　てにいれて\xfffeはしゃぎたくなる　きもち\xf000븀\x0000わからないでも　ないし\xf000븁\x0000
+Cheren: Hrm... right.\xfffeWould you battle me?\xf000븁\x0000I'm not even sure why, but\xfffesimply getting my Pokémon\xf000븀\x0000fills me with excitement!\xf000븁\x0000
 Bel: Where are you going?\xfffeC'mon, battle me!\xf000븁\x0000
 Bel: Heyyy!\xfffeReady to Pokémon battle?\xf000븁\x0000
 YAAAY!\xfffeOkay, let's GO!!\xf000븁\x0000
-Whaaa?!\xfffeGeez, don't be like that!\xf000븀\x0000Reconsider, would you?!\xf000븁\x0000だって　じぶんの\xfffeポケモンが　いるんだよ！\xf000븀\x0000しょうぶ　しよーよ！！
+Whaaa?!\xfffeGeez, don't be like that!\xf000븀\x0000Reconsider, would you?!\xf000븁\x0000You just got your\xfffeVERY OWN POKéMON!\xf000븀\x0000It's ALL YOURS!\xf000븀\x0000You gotta BATTLE that sucker!!
 Bel: Oops...!\xf000븁\x0000\xf000Ā\x0001\x0000, desculpa esta\xfffeconfusão!!\xf000븁\x0000Eu limpo isto mais tarde!\xf000븁\x0000
 Bel: Oops...!\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeDesculpa por esta confusão!\xf000븀\x0000Não te importas?\xf000븁\x0000Bem,está bem, mas desculpa outra vez...\xfffeEu limpo isto mais tarde!\xf000븁\x0000
 Cheren: Bel, olha-me o que fizeste!\xfffeTu não cresces?\xf000븁\x0000
