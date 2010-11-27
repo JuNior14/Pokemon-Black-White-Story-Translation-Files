@@ -1,12 +1,12 @@
 no data
-It's so peaceful here...\xfffeIt really makes you feel great!
-Surrounded by trees,\xfffeI feel my body and mind\xf000븀\x0000\xfffebecoming one with nature...
-Living in the city\xfffeseems so oppressive...
-Wonderful air!\xfffePleasant breeze!\xf000븀\x0000\xfffeOh, it's just so satisfying...
-Living each day the same way...\xfffeThat's the best kind of happiness!
-Pokémon like living\xfffewith nature, too!
-When everyone's gentle, you can\xfffetrust anyone to be nice!\xf000븁\x0000\xfffeEveryone should cooperate to\xfffemake this a fabulous forest!
-The power of nature\xfffeis great indeed!\xf000븁\x0000\xfffeIt calls living things together\xfffeand grants them many blessings...\xf000븁\x0000\xfffeIt's a power man\xfffecannot hope to imitate!
+É tão calmo aqui...\xfffeIsso realmente faz-te sentir bem!
+Rodeado por árvores,\xfffeeu sinto o meu corpo e mente\xf000븀\x0000\xfffetornarem-se um só com a natureza...
+Viver na cidade\xfffeparece tão opressivo...
+Ar maravilhoso!\xfffeBrisa agradável!\xf000븀\x0000\xfffeOh! Isso é tão satisfatório...
+Viver cada dia da mesma maneira...\xfffeEsta é a melhor forma de felicidade!
+Os Pokémon também querem viver\xfffecom a natureza!
+Quando toda a gente é docil, podes\xfffeconfiar em alguém para ser simpatico!\xf000븁\x0000\xfffeTodos devem cooperar para\xfffefazer desta uma floresta fabulosa!
+O poder da natureza\xfffeé realmente grande!\xf000븁\x0000\xfffeEla chama os seres vivos para si\xfffee lhes concede muitas benções...\xf000븁\x0000\xfffeEsse é um poder que o\xfffehomem não pode imitar!
 シュウサク『あっ こんにちは！\xfffeしぜんの めぐみが きもちいいね！\xf000븁\x0000\xf000Ā\x0001\x0000がいた ブラックシティから\xfffeやってきた シュウサクです よろしく！\xf000븁\x0000
 シュウサク『あっ どうも こんにちは！\xf000븁\x0000はっぱと はっぱが すれあう おとで\xfffeきょうは めざめたよ\xf000븀\x0000ほんとうに きもちいいね ここは！\xf000븁\x0000
 さいきん……\xfffeむねが ざわつくんだよね\xf000븀\x0000とかいの かぜを かんじたいのかも
@@ -127,4 +127,4 @@ The power of nature\xfffeis great indeed!\xf000븁\x0000\xfffeIt calls living th
 グレース『だいしぜんが\xfffeうみだす うつくしさ\xf000븁\x0000その ゆうだいさは\xfffeひとの そうぞうを こえているわね\xf000븁\x0000
 いま わたしが みたいのは\xfffeひとの てによる げいじゅつ\xf000븀\x0000……ここじゃ みたされないわね
 さっき そこで みかけた\xfffeタツベイの うつくしさも\xf000븀\x0000しぜんなのが いいのよね……
-White Forest\xfffeThe gleaming forest!
+Floresta Branca\xfffeA floresta brilhante!
