@@ -1,31 +1,31 @@
 ... ... ... ...
-This kid looked lonely,\xfffeso I was reading him a storybook!\xf000븀\x0000\xfffeYou listen too, mister!\xf000븁\x0000
-This kid looked lonely,\xfffeso I was reading him a storybook!\xf000븀\x0000\xfffeYou listen too, miss!\xf000븁\x0000
-Lemme continue with the story!\xf000븁\x0000\xfffe... ... ... ...\xfffeThe Zorua, made all alone,\xf000븀\x0000\xfffesearched for its mother...\xf000븁\x0000
-Have you seen Zorua?\xfffeLook, it's a Pokémon like this!\xf000븁\x0000
-Zorua has the power\xfffeto fool people!\xf000븁\x0000\xfffeThat can be scary,\xfffebut I still like Zorua!\xf000븀\x0000\xfffeI mean, it's really cute!\xf000븁\x0000\xfffe...Huh?\xfffeWhy are you turning red?!
-Hiun City is so sprawling,\xfffeit makes my eyes go dizzy...\xf000븀\x0000\xfffeAnd I always get lost!
-This kid's lost!\xfffeHe looks lonely... so, mister,\xf000븀\x0000\xfffeyou should talk to him too!
-This kid's lost!\xfffeHe looks lonely... so, miss,\xf000븀\x0000\xfffeyou should talk to him too!
+Esta criança parece solitária,então\xfffeeu fui ler um livro de histórias para ele!\xf000븀\x0000\xfffeTambém ouviu, mister!\xf000븁\x0000
+Esta criança parece solitária,então\xfffeeu fui ler um livro de histórias para ele!\xf000븀\x0000\xfffeTambém ouviu, miss!\xf000븁\x0000
+Deixe-me continuar com a história!\xf000븁\x0000\xfffe... ... ... ...\xfffeO Zorua, fez tudo sozinho,\xf000븀\x0000\xfffeprocurou pela sua mãe...\xf000븁\x0000
+Tu já vistes um Zorua?\xfffeOlha, é um Pokémon como este!\xf000븁\x0000
+Zorua tem o poder\xfffede enganar as pessoas!\xf000븁\x0000\xfffeIsso pode ser assustador,\xfffemas eu ainda gosto do Zorua!\xf000븀\x0000\xfffeQuero dizer, ele é realmente bonito!\xf000븁\x0000\xfffe...Hã?\xfffePorque estás a ficar vermelho?!
+A Cidade de Hiun é muito extensa,\xfffefaz-me tonturas...\xf000븀\x0000\xfffeE perco-me sempre!
+Esta criança está perdida!\xfffeEle parece solitario... então, mister,\xf000븀\x0000\xfffedeve também conversar com ele!
+Esta criança está perdida!\xfffeEle parece solitario... então, miss,\xf000븀\x0000\xfffedeve tembém conversar com ele!
 Kyuooooon!
 Lululalala!
-You exposed Zorua!\xfffeAwesome stuff!\xf000븁\x0000
-Zorua and Celebi seem\xfffelike they're great friends!\xf000븁\x0000\xfffeI bet it wants to go with\xfffeCelebi! I'm sure of it!\xf000븁\x0000
-Befriend Zorua?
-Zorua joined you!
-Zorua was transferred\xfffeto an open Box!
+Tu revelastes o Zorua!\xfffeCoisa impressionante!\xf000븁\x0000
+Zorua e Celebi, parece\xfffeque eles são grandes amigos!\xf000븁\x0000\xfffeEu aposto que ele quer ir com o\xfffeCelebi! Eu tenho a certeza disso!\xf000븁\x0000
+Proteger o Zorua?
+O Zorua juntou-se a ti!
+Zorua foi transferido\xfffepara uma caixa aberta!
 ......Kyun?\xf000븁\x0000
-It doesn't seem to notice\xfffethat Celebi's not with you!
-So Zorua was waiting here\xfffeto meet its friend Celebi!\xf000븀\x0000\xfffeWell, I'm relieved!\xf000븁\x0000
-Zorua and Celebi seem\xfffelike they're great friends!\xf000븁\x0000\xfffeI bet it wants to go with\xfffeCelebi! I'm sure of it!\xf000븁\x0000\xfffe...But, uh, mister,\xfffeCAN you take Zorua?\xf000븁\x0000\xfffeDon't you have too many\xfffePokémon in your party?
-Zorua and Celebi seem\xfffelike they're great friends!\xf000븁\x0000\xfffeI bet it wants to go with\xfffeCelebi! I'm sure of it!\xf000븁\x0000\xfffe...But, uh, miss,\xfffeCAN you take Zorua?\xf000븁\x0000\xfffeDon't you have too many\xfffePokémon in your party?
-You won't take it along...?\xfffeIt looks so lonely...\xf000븁\x0000
-You won't take it along...?\xfffeIt looks so lonely...
-Zorua's waiting!
-You got a Pokéball, mister?\xf000븁\x0000
-You got a Pokéball, miss?\xf000븁\x0000
-...You won't take it along?\xf000븁\x0000
-It's a bronze Pokémon statue\xfffewith a mysterious air about it.
-Zorua and Celebi seem\xfffelike they're great friends!\xf000븁\x0000\xfffeI bet it wants to go with\xfffeCelebi! I'm sure of it!\xf000븁\x0000\xfffe...But, uh, mister,\xfffeCAN you take Zorua?\xf000븁\x0000\xfffeDon't you have too many\xfffePokémon in your party?
-Zorua and Celebi seem\xfffelike they're great friends!\xf000븁\x0000\xfffeI bet it wants to go with\xfffeCelebi! I'm sure of it!\xf000븁\x0000\xfffe...But, uh, miss,\xfffeCAN you take Zorua?\xf000븁\x0000\xfffeDon't you have too many\xfffePokémon in your party?
-Give a nickname to\xfffethe befriended Zorua?
+Ele parece não perceber\xfffeque o Celebi não está contigo!
+Então o Zorua estava aqui á espera\xfffepara encontrar o amigo, o Celebi!\xf000븀\x0000\xfffeBem, eu estou aliviado!\xf000븁\x0000
+Zorua e Celebi, parece\xfffeque eles são grandes amigos!\xf000븁\x0000\xfffeEu aposto que ele quer ir com o\xfffeCelebi! Eu tenho a certeza disso!\xf000븁\x0000\xfffe...Mas, uh, mister,\xfffePODE apanhar o Zorua?\xf000븁\x0000\xfffeNão tem muitos\xfffePokémons na sua equipa?
+Zorua e Celebi, parece\xfffeque eles são grandes amigos!\xf000븁\x0000\xfffeEu aposto que ele quer ir com o\xfffeCelebi! Eu tenho a certeza disso!\xf000븁\x0000\xfffe...Mas, uh, miss,\xfffePODE apanhar o Zorua?\xf000븁\x0000\xfffeNão tem muitos\xfffePokémons na sua equipa?
+Não vai leva-lo...?\xfffeEle parece tão solitario...\xf000븁\x0000
+Não vai leva-lo...?\xfffeEle parece tão solitário...
+Zorua está á espera!
+Tem uma Pokébola, mister?\xf000븁\x0000
+Tem uma Pokébola, miss?\xf000븁\x0000
+...Não vai leva-lo?\xf000븁\x0000
+É uma estátua de bronze de algum\xfffePokémon com um ar misterioso.
+Zorua e Celebi, parece\xfffeque eles são grandes amigos!\xf000븁\x0000\xfffeEu aposto que ele quer ir com o\xfffeCelebi! Eu tenho a certeza disso!\xf000븁\x0000\xfffe...Mas, uh, mister,\xfffePODE apanhar o Zorua?\xf000븁\x0000\xfffeNão tem muitos\xfffePokémons na sua equipa?
+Zorua e Celebi, parece\xfffeque eles são grandes amigos!\xf000븁\x0000\xfffeEu aposto que ele quer ir com o\xfffeCelebi! Eu tenho a certeza disso!\xf000븁\x0000\xfffe...Mas, uh, miss,\xfffePODE apanhar o Zorua?\xf000븁\x0000\xfffeNão tem muitos\xfffePokémons na sua equipa?
+Quer dar uma alcunha para\xfffeo protegido Zorua?
