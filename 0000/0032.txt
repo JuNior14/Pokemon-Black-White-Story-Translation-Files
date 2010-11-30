@@ -1,15 +1,15 @@
-Good day, trainer!\xf000븁\x0000Make sure to think about giving\xfffePotions to your traveling companions!
-It's always good to\xfffebuy more Pokéballs!\xf000븁\x0000Even if you're just running into\xfffePokémon you've already caught!
-Hey, you there!\xf000븁\x0000When you play, do you prefer\xfffeto do it outside or inside?
-I see, I see, yes, yes!\xf000븁\x0000Do you care about what everyone\xfffeknows, or what no one knows?
-Oh, really!\xf000븁\x0000
-In my opinion, you seem like\xfffea straightforward person!
-You seem like\xfffea rather active type!
-Your curiosity seems\xfffeto know no bounds!
-You must be\xfffea very quiet person!
-You sound like\xfffesome kind of maniac!
-Outside
-Inside
-Either
-What everyone knows
-What no one knows
+Bom dia, treinador!\xf000븁\x0000Pensa em dar algumas\xfffePoções aos teus amigos de viagem!
+É sempre necessário\xfffecomprar mais Pokébolas!\xf000븁\x0000Mesmo se já tiveres apanhado\xfffeo Pokémon!
+Hey, tu aí!\xf000븁\x0000Quando estás a jogar, preferes\xfffefazer fora ou dentro?
+Estou a ver, estou a ver, sim, sim!\xf000븁\x0000Tu importaste o que toda a gente\xfffesabe, ou o que ninguém sabe?
+Oh, a sério!\xf000븁\x0000
+Na minha opinião, tu pareces como\xfffeuma pessoa...honesta!
+Tu pareces como\xfffeuma pessoa bastante...activa!
+A tua curiosidade é como\xfffeo teu conhecimento, não tem limites!
+Tu deves ser\xfffeuma pessoa muito calma!
+Tu pareces como\xfffealgo..maniaco ou assim!
+Fora
+Dentro
+Qualquer
+O que todos sabem
+O que ninguém sabe
