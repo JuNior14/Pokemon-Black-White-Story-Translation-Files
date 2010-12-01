@@ -1,10 +1,10 @@
-Cansado?\xfffeBem-vindo ao Centro Pokemon!\xf000븁\x0000\xfffeNós recuperamos a energia do\xfffeteu querido Pokemon.\xf000븁\x0000\xfffeGostarias de recuperar as energias dos teus Pokémon?
-Bom Dia,\xfffee Bem-vindo ao Centro Pokemon.\xf000븁\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
-Hello,\xfffeand welcome to the Pokémon Center.\xf000븁\x0000\xfffeNós recuperamos a energia dos\xfffeteus queridos Pokemon.\xf000븁\x0000\xfffeGostarias de recuperar as energias dos teus Pokémon?
+Cansado?\xfffeBem-vindo ao Centro Pokemon!\xf000븁\x0000\xfffeNós recuperamos a energia do\xfffeteu querido Pokemon.\xf000븁\x0000\xfffeGostarias de recuperar os teus Pokémon?
+Bom Dia,\xfffee Bem-vindo ao Centro Pokemon.\xf000븁\x0000\xfffeNós recuperamos a energia\xfffetoda do teu cansado Pokémon.\xf000븁\x0000\xfffeGostarias de recuperar os teus Pokémon?
+Olá,\xfffee bem-vindo ao Centro Pokémon.\xf000븁\x0000\xfffeNós recuperamos a energia dos\xfffeteus queridos Pokemon.\xf000븁\x0000\xfffeGostarias de recuperar as energias dos teus Pokémon?
 いらっしゃいませ！\xfffeポケモン　センター　です\xf000븁\x0000……あら　もしかして\xfffeおたんじょうび　ですか？
 おたんじょうび\xfffeおめでとうございます！！\xf000븁\x0000これからも　ポケモンセンターを\xfffeごりように　なってくださいね\xf000븁\x0000それでは　あなたの　ポケモンを\xfffeやすませて　あげますか？
 ……あら　かんちがい　でしたか\xfffeもうしわけ　ございません\xf000븁\x0000あなたの　ポケモンを\xfffeやすませて　あげますか？
-OK, Vou levar os teus Pokemon para recuperarem,\xfffenão demoro nada.
+Ok, vou leva-los para recuperarem,\xfffenão demoro nada.
 Obrigada por esperares.\xf000븁\x0000\xfffeOs teus Pokemons já estão\xffferecuperados.\xf000븁\x0000
 Por favor, volta quando quiseres!
 おつかれさまです！\xfffeポケモン　センター　です\xf000븁\x0000\xfffeここでは　ポケモンの\xfffeたいりょく　かいふくを　します\xf000븁\x0000\xfffeあなたの　ポケモンを……\xf000븁\x0000
