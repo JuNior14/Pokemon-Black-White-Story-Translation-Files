@@ -9,8 +9,8 @@ Obrigada por esperares.\xf000븁\x0000\xfffeOs teus Pokemons já estão\xffferec
 Por favor, volta quando quiseres!
 Obrigado por vires!\xfffeBem-vindo ao Centro-Pokémon.\xf000븁\x0000\xfffeVamos recuperar os teus Pokémons\xfffepara a saúde perfeita!\xf000븁\x0000\xfffeVamos...
 Es-Esse cartão...?!\xf000븁\x0000\xfffeEssa cor!!\xfffeEsse brilho!!\xf000븁\x0000\xfffeJá tinha visto treinadores\xfffecom cartões prateados, mas...\xf000븁\x0000\xfffeTu, \xf000Ā\x0001\x0000, és o primeiro que vi\xfffecom um cartão impressionante!\xf000븁\x0000Bem, \xf000Ā\x0001\x0000,\xfffedeixa-nos curar o teu Pokémon!
-\xf000Ā\x0001\x0000さん おつかれさまです！\xfffeいつもので よろしい ですね！
-Your Pokémon may be\xfffeinfected with Pokérus.\xf000븁\x0000\xfffeLittle is known about the Pokérus\xfffeexcept that they are microscopic lifeforms\xf000븀\x0000that attach to Pokémon.\xf000븁\x0000\xfffeWhile infected, Pokémon are said\xfffeto grow exceptionally well.
+\xf000Ā\x0001\x0000! Obrigado\xfffePodes vir visitar quando quiseres!
+O teu Pokémon pode estar\xfffeinfectado pelo Pokérus.\xf000븁\x0000\xfffePouco se sabe do Pokérus\xfffesomente que são formas de vida microscópicas\xf000븀\x0000que se juntam ao Pokémon.\xf000븁\x0000\xfffeUma vez infectado, Pokémon são mencionados\xfffepara crescer muitíssimo bem.
 Bem-vindo 'Pokémon Wireless\xfffeClub Union Room'.\xf000븁\x0000Aqui podes interacionar com \xfffemuitos treinadores.\xf000븁\x0000WGostarias de entrar?
 Os treinadores da 'Union Room'\xfffevão ser os que estiverem á tua volta\xf000븀\x0000,ou seja, quem entrou nesta mesma sala.\xf000븁\x0000Podes entrar com dois Pokemon até ao\xfffeLv. 30 para um combate de um contra um.\xf000븁\x0000Ou, podes trocar aqui o teu Pokémon \xfffecom o do outro treinador.\xf000븁\x0000Podes também misturar os registros ou desenhar\xfffecom os outros jogadores.\xf000븁\x0000Podes também teclar no chat\xfffecom os outros jogadores.\xf000븁\x0000...Ou encontra os teus amigos\xfffe pelo tocar no ecrã.\xf000븁\x0000Queres entrar na sala?
 DS Comunicações Wireless vão ser\xfffeabertas. Está bem?
@@ -19,7 +19,7 @@ Espero voltar a ver-te em breve!
 Entrar
 Sair
 Info.
-もうしわけ　ございませんが\xfffeおきゃくさまは　まだ\xf000븀\x0000ユニオンルームに　はいれません\xf000븁\x0000
-てもちに　つれていけない\xfffeポケモンが　います\xf000븁\x0000
-そういえば　おきゃくさま\xf000븁\x0000トレーナーカードに　かいてある\xfffeごじぶんの　かたがきが\xf000븀\x0000ポケモントレーナーの　ままですね？\xf000븁\x0000かたがきを　かえておくと\xfffeユニオンルームで　あいさつを\xf000븀\x0000するときに　イメージが\xf000븀\x0000つたわりやすくて　べんりですよ\xf000븁\x0000そうですねー\xf000븁\x0000たとえば　\xf000Ď\x0001\x0000\xfffeなど　いかがでしょうか？\xf000븁\x0000わたしから　みた　いんしょう　ですが\xfffeまずは　かたがきを　かえてみましょう\xf000븁\x0000おきに　めさない　ようでしたら\xfffeトレーナーカードで　かたがきを\xf000븀\x0000タッチすれば　へんこうできますよ\xf000븁\x0000
-いまは　まだ　つかえないみたい
+We apologize, but guests still\xfffecannot enter the Union Room.\xf000븁\x0000
+You have Pokémon with you that\xfffeyou are not allowed to take.\xf000븁\x0000
+By the way, trainer...\xf000븁\x0000I see the title on your Trainer\xfffeCard is still "Pokémon Trainer."\xf000븁\x0000Changing your title and giving\xfffea greeting in the Union Room\xf000븀\x0000can be helpful for giving others\xf000븀\x0000an idea of what you're like.\xf000븁\x0000Let's see...\xf000븁\x0000For example,\xfffehow about \xf000Ď\x0001\x0000?\xf000븁\x0000Well, that's just my impression.\xfffeFor now, I'll make that your title.\xf000븁\x0000You can change your title by\xfffetouching it on the Trainer Card.\xf000븁\x0000
+It seems unusable right now.
