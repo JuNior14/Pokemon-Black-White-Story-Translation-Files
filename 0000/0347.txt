@@ -19,7 +19,7 @@ Espero voltar a ver-te em breve!
 Entrar
 Sair
 Info.
-We apologize, but guests still\xfffecannot enter the Union Room.\xf000븁\x0000
-You have Pokémon with you that\xfffeyou are not allowed to take.\xf000븁\x0000
-By the way, trainer...\xf000븁\x0000I see the title on your Trainer\xfffeCard is still "Pokémon Trainer."\xf000븁\x0000Changing your title and giving\xfffea greeting in the Union Room\xf000븀\x0000can be helpful for giving others\xf000븀\x0000an idea of what you're like.\xf000븁\x0000Let's see...\xf000븁\x0000For example,\xfffehow about \xf000Ď\x0001\x0000?\xf000븁\x0000Well, that's just my impression.\xfffeFor now, I'll make that your title.\xf000븁\x0000You can change your title by\xfffetouching it on the Trainer Card.\xf000븁\x0000
-It seems unusable right now.
+Pedimos desculpas, mas os clientes ainda\xfffenão podem entrar no Union Room.\xf000븁\x0000
+Tu tens um Pokémon contigo que\xfffenão é permitido trazer.\xf000븁\x0000
+Já agora, treinador...\xf000븁\x0000Eu vejo o título no seu Trainer\xfffeCard ainda é "Treinador de Pokémon".\xf000븁\x0000Ao mudar o seu título e ao dar uma\xfffe saudação no Union Room\xf000븀\x0000pode ser útil para dar aos outros\xf000븀\x0000uma idéia do que tu gosta.\xf000븁\x0000Vamos ver...\xf000븁\x0000Por exemplo,\xfffecomo sobre \xf000Ď\x0001\x0000?\xf000븁\x0000Bem, isso é só impressão minha.\xfffePor agora, vou fazer o seu título.\xf000븁\x0000Podes mudar o titulo ao\xfffetocar no Trainer Card.\xf000븁\x0000
+Parece inútil agora.
