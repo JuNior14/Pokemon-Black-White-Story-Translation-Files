@@ -1,21 +1,21 @@
-Arti: Thataway!\xf000븁\x0000Hm, wait, isn't that\xfffethe way to the gym?!\xf000븁\x0000
-no data
-no data
-When work's finally over...\xf000븁\x0000When the Pokéball I threw\xfffemakes its third wobble...\xf000븁\x0000My life is full\xfffeof all sorts of joys!
-I'm a fighting businessman!\xfffe...But my Pokémon are weak.
-Busy, busy, busy!\xf000븁\x0000I'm thinking about lunch\xfffeas I eat breakfast!\xf000븁\x0000I'm worrying about dinner\xfffeafter I eat lunch!\xf000븁\x0000Day after day after day...\xfffeI just can't catch a break!
-Hey, trainer!\xfffeYour Pokémon healthy?\xf000븁\x0000Health is top priority!\xfffeYou're healthy, you can do anything!
-...Grumble, moan...\xf000븁\x0000...Change my Pokémon's moves?\xfffeOr just change my Pokémon?\xf000븁\x0000...Grumble, hm...
-Hiun City is packed\xfffewith people, eh?\xf000븁\x0000Sometimes you'll run into people\xfffewho only care about themselves.
-I take my lunch break to\xfffewatch the ships on the dock!
-Working women are wonderful...\xfffeAnd fighting Pokémon are fantastic!
-The Battle Company welcomes\xfffetrainers proud of their skills!
-Next on the list!\xfffeI wanna have summa that Hiun Ice!
-Hiun City\xfffeCity of soaring, joyful clouds!
-Hiun City\xfffeCity of soaring, joyful clouds!
-↑ Hiun Street\xfffe↓ Cruise Pier
-↑ Maude Street\xfffe↓ Prime Pier
-↑ Slim Street\xfffe↓ United Pier
-↑ Pokémon Gym\xfffe↓ Liberty Pier
-Chance-Upon Survey HQ\xfffe...People walk, and chance upon others
-Battle Company\xfffeWelcome, confident trainers!
+Arti: Por aquele caminho!\xf000븁\x0000Hm, espera, não é\xfffeo caminho para o ginásio?!\xf000븁\x0000
+sem dados
+sem dados
+Quando o trabalho é finalmente acabado...\xf000븁\x0000Quando a Pokébola que mandei\xfffefaz a sua terceira oscilação..\xf000븁\x0000A minha vida fica cheia\xfffede todos os tipos de alegrias!
+Sou um lutador negociante!\xfffe...Mas os meus Pokémons estão fracos.
+Ocupado, ocupado, ocupado!\xf000븁\x0000Estou a pensar em almoçar\xfffeenquanto como o pequeno-almoço!\xf000븁\x0000Estou preocupado em jantar\xfffedepois de almoçar!\xf000븁\x0000Dia após dia aós dia...\xfffeSó não consigo ter um descanso!
+Hey, treinador!\xfffeA saúde do teu Pokémon?\xf000븁\x0000A saúde é a mais alta prioridade!\xfffeEstás saúdavel, podes fazer de tudo!
+...Roncar, gemido...\xf000븁\x0000...Mudar os ataques dos meus Pokémons?\xfffeOu simplesmente mudar de Pokémon?\xf000븁\x0000...Roncar, hm...
+A Cidade Hiun City está embalada\xfffede gente, eh?\xf000븁\x0000Ás vezes irás a correr para as\xfffepessoas que se preocupam.
+Estou na minha pausa do almoço para\xfffever os navios no cais!
+As mulheres que trabalham são maravilhosas...\xfffeE combates Pokémon são fantasticos!
+A Companhia de Batalha dá as boas vindas\xfffeaos treinadores orgulhosos das suas habilidades!
+Próximo da lista!\xfffeEu quero provar um bocado do Gelado de Hiun!
+Cidade Hiun\xfffeCidade elevada, nuvens alegres!
+Cidade Hiun\xfffeCidade elevada, nuvens alegres!
+↑ Rua Hiun\xfffe↓ Cais de Cruzeiros
+↑ Rua Maude\xfffe↓ Cais Nobre
+↑ Rua Delgada\xfffe↓ Cais Unido
+↑ Ginásio Pokémon\xfffe↓ Cais da Liberdade
+Chance-Sobre Inspeção HQ\xfffe...Pessoas andam, e chance para outras
+Companhia de Batalha\xfffeBem-vindo, treinador confiante!
