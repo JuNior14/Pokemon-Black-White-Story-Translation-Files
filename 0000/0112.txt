@@ -1,46 +1,46 @@
-Oh! It's you!\xfffeYou must be \xf000Ā\x0001\x0000!\xf000븁\x0000
-Can I take a quick look at your\xfffePokédex?\xf000븁\x0000Hmmm... Yes...\xf000븁\x0000\xfffeSo you've found \xf000Ȃ\x0001\x0000 Pokémon!\xf000븁\x0000
-Oh! And you've found Gear?!\xfffeYou're quite the trainer!\xf000븁\x0000
-Oops, I'm sorry!\xfffeI got a little overexcited there.\xf000븁\x0000\xfffeMy name is... ALSO Araragi!\xf000븁\x0000
-That's right! My daughter is the\xfffeone who made your Pokédex!\xf000븁\x0000\xfffeShe's told me all sorts\xfffeof things about you.\xf000븁\x0000\xfffeI'm just overjoyed I could\xfffemeet you here!\xf000븁\x0000
-So in comemmoration of our meeting,\xfffelet me upgrade your Pokédex! Okay?\xf000븁\x0000
-\xf000Ā\x0001\x0000's Pokédex was upgraded!
-Araragi: There are some Pokémon that\xfffeare of the same species,\xf000븀\x0000but have different forms.\xf000븁\x0000With this upgrade, you now can keep\xfffetrack of which forms you've seen!\xf000븁\x0000Plus, I've added some additional\xfffefunctions to make it\xf000븀\x0000easier to search for Pokémon!\xf000븁\x0000
-???: Professor Araragi,\xfffewho's this trainer?\xf000븁\x0000
-Araragi: Oh! ...Oh!\xfffeSorry, I'm sorry.\xf000븁\x0000\xfffeFurou, this is \xf000Ā\x0001\x0000,\xfffean acquaintance of my daughter!\xf000븁\x0000\xf000Ā\x0001\x0000's journering through Unova,\xfffeaiming to complete the Pokédex.\xf000븁\x0000
-Furou: I see! Then you'll probably\xfffechallenge the gym here, right?\xf000븀\x0000\xfffeWow! I'm looking forward to it!\xf000븁\x0000
-Araragi: Yeah, \xf000Ā\x0001\x0000!\xfffeIt'd be great if you challenged her!\xf000븁\x0000I'm sure you'll just soar right\xfffethrough the gym here!\xf000븁\x0000
-Well, Furou, if anything comes up\xfffeagain, I'm counting on you!\xf000븁\x0000
-Furou: ...Professor, my plane's\xfffea cargo plane!\xf000븁\x0000It carries luggage, not people.\xf000븁\x0000...Not to mention places like Kanto\xfffeand Sinnoh aren't easy destinations!\xf000븁\x0000
-Araragi: Hey, now, don't be\xfffeso harsh while you're making\xf000븀\x0000\xfffesuch a cute face...\xf000븁\x0000\xfffeHumans need to help each other,\xfffejust like we do with Pokémon!\xf000븁\x0000\xfffeWell, you two,\xfffehope we meet again!\xf000븁\x0000
-Furou: ...Why!\xf000븁\x0000\xfffeSo irresponsible for a world-\xffferenowned Pokémon professor!\xf000븀\x0000\xfffeI still don't believe it.\xf000븁\x0000
-Now, \xf000Ā\x0001\x0000!\xf000븁\x0000As the gym leader, I'd be very\xfffeglad if you were to challenge\xf000븀\x0000my gym.\xf000븁\x0000But first, there's something\xfffeI need to do.\xf000븁\x0000
-Now, \xf000Ā\x0001\x0000!\xf000븁\x0000As the gym leader, I'd be very\xfffeglad if you were to challenge\xf000븀\x0000my gym.\xf000븁\x0000But first, there's something\xfffeI need to do.\xf000븁\x0000
-Earlier, when I was flying my cargo\xfffeplane...\xf000븁\x0000I saw something atop\xfffethe Tower of Heaven.\xf000븁\x0000It was a weakened Pokémon,\xfffeI'm sure of it!\xf000븁\x0000
-I can't very well ignore it,\xfffenow can I?\xf000븁\x0000So I'm going ahead and investigating!\xf000븁\x0000That said, I'm going to the\xfffeTower of Heaven on Route 7...\xf000븀\x0000And if you want, you can come too.\xf000븁\x0000
-Miss Furou?\xf000븁\x0000She finished her business with her cargo\xfffeand went off somewhere...\xf000븁\x0000Maybe check out the\xfffeTower of Heaven on Route 7?
-N: \xf000븉\x0001\x0001...To understand each other,\xfffetrainers struggle through battle,\xf000븀\x0000and wound Pokémon in the process.\xf000븁\x0000Am I the only one? The only one\xfffewho sees how very painful it is?\xf000븁\x0000Regardless... I have\xfffespoken to your Pokémon...\xf000븁\x0000...Since the day I was born,\xfffeI have been brought up with Pokémon.\xf000븀\x0000It's more comfortable to me\xf000븀\x0000than talking with people.\xf000븁\x0000So I know Pokémon cannot ever lie.\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001\xf000ā\x0001\x0000...\xf000븁\x0000Would you tell me what\xfffekind of trainer \xf000Ā\x0001\x0001 is?\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001...I see. So you were born\xfffeand raised in Kanoko Town,\xf000븀\x0000together with your mother...\xf000븁\x0000Taking the opportunity presented to\xfffeyou by the Pokédex, you are\xf000븀\x0000out on a journey to see the world...\xf000븀\x0000Hmm.\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001Even so, for whatever reason,\xfffethis \xf000ā\x0001\x0001 seems to believe in you...\xf000븀\x0000How splendid...!\xf000븁\x0000If only all people could get\xfffealong with Pokémon as you all do...\xf000븁\x0000Yet the fate of Pokémon and humans\xfffeis left in the hands of those\xf000븀\x0000who use Pokémon for themselves...\xf000븁\x0000Geechisu is having Team Plasma\xfffesearch for a special stone.\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001The paired Light Stone and Dark Stone...\xfffethey are what we seek.\xf000븁\x0000The body of the legendary Pokémon\xfffewas destroyed, and it sleeps\xf000븀\x0000in the form of a stone,\xf000븀\x0000awaiting the hero's return...\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001I will revive the legendary Pokémon\xfffefrom its slumber.\xf000븁\x0000And I will befriend it, and the world\xfffewill recognize me as a hero...\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001...My dream is to make this\xfffea world without strife.\xf000븁\x0000If the world is changed by force,\xfffethere will be those who oppose it.\xf000븁\x0000And when there is opposition,\xfffethose wounded are the innocent Pokémon\xf000븀\x0000whom foolish trainers abuse...\xf000븁\x0000Yes... Pokémon are not\xfffeplaythings for people to control!\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001As such...\xf000븁\x0000It pains me a little to separate\xfffetrainers from their Pokémon\xf000븀\x0000when there are ones like you\xf000븀\x0000who respect each other...\xf000븉\x0001\x0000\xf000븁\x0000
-Airplanes! Behold their form!\xfffeAnd the design that gives them flight!\xf000븁\x0000\xfffeAnd the mechanics behind that flight...\xfffethey let nothing go to waste!
-The Fukiyose airport\xfffeonly flies cargo planes.\xf000븁\x0000\xfffeWhen trainers want to fly,\xfffethat's what the move Fly is for!
-Miss Furou's grandpa was\xfffea legendary airplane pilot!\xf000븁\x0000\xfffeOh, Miss Furou is this town's\xfffegym leader, of course!\xf000븀\x0000\xfffeShe's such a kind girl!
-Pokémon and people cleared desolate\xfffeland so that everyone could live on it...\xf000븁\x0000\xfffeI'm certain that optimistic spirit\xfffewill never change!
-If you're careful, it doesn't matter\xfffeif you play on the runway!\xf000븁\x0000\xfffeThe cargo planes only set out\xfffeabout once a day.
-There seem to be a fair number\xfffewho have had their Pokémon stolen\xf000븀\x0000by Team Plasma...
-When you want yummy vegetables,\xfffegrowing them naturally is best!\xf000븁\x0000Having to endure changing weather\xfffealways seems to help the taste!\xf000븁\x0000You can tell because Pokémon often\xfffeeat them while they're growing...
-Using a greenhouse is the\xfffebest way to grow vegetables!\xf000븁\x0000The temperature and nourishment\xfffecan all be systematically controlled.\xf000븁\x0000With nothing going to waste,\xfffethe vegetables end up perfectly tasty!
-Ahhh!\xfffeYou found our treasure!!\xf000븁\x0000
-You found it!!\xf000븁\x0000
-Oh, geez...\xf000븁\x0000Our Pokémon aren't worthy!\xfffeWe were trying to hide\xf000븀\x0000that Technical Machine, but...\xf000븁\x0000But since we're not worthy,\xfffeyou can use it, mister!\xf000븁\x0000We can get another one\xfffefrom miss Furou anyway!\xf000븁\x0000
-Oh, geez...\xf000븁\x0000Our Pokémon aren't worthy!\xfffeWe were trying to hide\xf000븀\x0000that Technical Machine, but...\xf000븁\x0000But since we're not worthy,\xfffeyou can use it, miss!\xf000븁\x0000We can get another one\xfffefrom miss Furou anyway!\xf000븁\x0000
-UUUUUSE IIIIIT!!\xf000븁\x0000
-See ya! Buh-bye!!\xf000븁\x0000
-Fukiyose City\xfffeWhere the wind brings Furouwers!
-Fukiyose Cargo Service\xfffeQuick and Safe!
-Fukiyose Pokémon Gym\xfffeLeader: Furou\xf000븀\x0000\xfffeSoarer of the Skies
+Oh! És tu!\xfffeTu deves ser \xf000Ā\x0001\x0000!\xf000븁\x0000
+Posso dar uma vista de olhos ao teu\xfffePokédex?\xf000븁\x0000Hmmm... Sim...\xf000븁\x0000\xfffeEntão já encontraste \xf000Ȃ\x0001\x0000 Pokémon!\xf000븁\x0000
+Oh! E encontraste o Gear?!\xfffeÉs um grande treinador!\xf000븁\x0000
+Oops, desculpa!\xfffeEntusiasmei-me demasiado.\xf000븁\x0000\xfffeO meu nome é... TAMBÉM Araragi!\xf000븁\x0000
+Isso mesmo! Foi a minha filha\xfffeque fez o teu Pokédex!\xf000븁\x0000\xfffeEla contou-me todo o tipo\xfffede coisas sobre ti.\xf000븁\x0000\xfffeEstou tão feliz por te poder\xfffeter conhecido aqui!\xf000븁\x0000
+Para celebrar o nosso encontro,\xfffedeixa-me actualizar o teu Pokédex! Okay?\xf000븁\x0000
+O Pokédex de \xf000Ā\x0001\x0000 foi actualizado!
+Araragi: Há alguns Pokémon que\xfffesão das mesmas espécies,\xf000븀\x0000mas têm formas diferentes.\xf000븁\x0000Com esta actualização, podes agora\xffferegistar as formas que vês!\xf000븁\x0000Além disso, eu adicionei algumas\xfffefunções para ser\xf000븀\x0000mais fácil procurar Pokémon!\xf000븁\x0000
+???: Professora Araragi,\xfffequem é este treinador?\xf000븁\x0000
+Araragi: Oh! ...Oh!\xfffeDesculpa, peço desculpa.\xf000븁\x0000\xfffeFurou, este é \xf000Ā\x0001\x0000,\xfffeum conhecido da minha filha!\xf000븁\x0000\xf000Ā\x0001\x0000 está a fazer uma jornada por Unova,\xfffecom o objectivo de completar o Pokédex.\xf000븁\x0000
+Furou: Estou a ver! Então provavelmente vais\xfffedesafiar o ginásio da cidade, certo?\xf000븀\x0000\xfffeUau! Estou ansioso por ver isso!\xf000븁\x0000
+Araragi: Sim, \xf000Ā\x0001\x0000!\xfffeIa ser fantástico se a desafiasses!\xf000븁\x0000Tenho a certeza que te vais sair bem\xfffeneste ginásio!\xf000븁\x0000
+Bem, Furou, se acontecer algo\xfffeoutra vez, estou a contar contigo!\xf000븁\x0000
+Furou: ...Professora, o meu avião é\xfffeum avião de carga!\xf000븁\x0000Carrega bagagens, não pessoas.\xf000븁\x0000...Parqa não falar de lugares como Kanto\xfffee Sinnoh, que não são destinos fáceis!\xf000븁\x0000
+Araragi: Hey,não sejas\xfffetão severo enquanto fazes\xf000븀\x0000\xfffeuma cara tão gira...\xf000븁\x0000\xfffeOs humanos precisam de ajudar-se entre si,\xfffetal e qual com os Pokémon!\xf000븁\x0000\xfffeBem, espero encontrar-me,\xfffede novo convosco!\xf000븁\x0000
+Furou: ...Porquê!\xf000븁\x0000\xfffeTão irresponsável para uma\xfffeprofessora de Pokémon mundialmente famosa!\xf000븀\x0000\xfffeAinda não acredito nisto.\xf000븁\x0000
+Agora, \xf000Ā\x0001\x0000!\xf000븁\x0000Como líder do ginásio, eu ficaria muito\xfffefeliz se fosses desafiar\xf000븀\x0000o meu ginásio.\xf000븁\x0000Mas antes, há algo que\xfffeeu tenho que fazer.\xf000븁\x0000
+Agora, \xf000Ā\x0001\x0000!\xf000븁\x0000Como líder do ginásio, eu ficaria muito\xfffefeliz se fosses desafiar\xf000븀\x0000o meu ginásio.\xf000븁\x0000Mas antes, há algo que\xfffeeu tenho que fazer.\xf000븁\x0000
+Há bocado, quando estava a voar no meu\xfffeavião de carga...\xf000븁\x0000Eu vi algo em cima\xfffeda Torre do Paraíso.\xf000븁\x0000Era um Pokémon enfraquecido,\xfffetenho a certeza!\xf000븁\x0000
+Eu não posso simplesmente ignorá-lo,\xfffenão é?\xf000븁\x0000Por isso vou lá investigar!\xf000븁\x0000Então eu vou a caminho da\xfffeda Torre do Paraíso, na Rota 7...\xf000븀\x0000E se quiseres, também podes vir.\xf000븁\x0000
+A Miss Furou?\xf000븁\x0000Ela acabou o trabalho das cargas\xfffee saiu para ir a algum lado...\xf000븁\x0000Talvez tenha ido ver da\xfffeTorre do Paraíso na Rota 7?
+N: \xf000븉\x0001\x0001...Para perceber-se uns aos outros,\xfffeos treinadores lutam em batalhas,\xf000븀\x0000e magoam Pokémon no processo.\xf000븁\x0000Sou o único? O único que vê\xfffeo quão doloroso isto é?\xf000븁\x0000Independentemente... Eu falei\xfffecom os vossos Pokémon...\xf000븁\x0000...Desde o dia em que nasci,\xfffeEu fui criado com Pokémon.\xf000븀\x0000É mais confortável para mim\xf000븀\x0000do que falar com pessoas.\xf000븁\x0000Por isso eu sei que os Pokémon não podem sempre mentir.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001\xf000ā\x0001\x0000...\xf000븁\x0000Podes dizer-me\xfffeque tipo de treinador é \xf000Ā\x0001\x0001?\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001...Estou a ver. Tu nasceste\xfffee cresceste em Kanoko Town,\xf000븀\x0000com a tua mãe...\xf000븁\x0000Aceitando a oportunidade apresentada\xfffepelo Pokédex, tu estás\xf000븀\x0000numa jornada para ver o mundo...\xf000븀\x0000Hmm.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Mesmo assim, por alguma razão\xfffeeste \xf000ā\x0001\x0001 parece confiar em ti...\xf000븀\x0000Esplêndido...!\xf000븁\x0000Se toda a gente se desse tão bem\xfffecom os Pokémon como vocês...\xf000븁\x0000Ainda assim, o destino dos Pokémon e humanos\xfffeestá nas mãos daqueles\xf000븀\x0000que usam os Pokémon para si próoprios...\xf000븁\x0000Geechisu está a fazer a Team Plasma\xfffeprocurar uma pedra especial.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001A Light Stone e a Dark Stone...\xfffeelas são o que procuramos.\xf000븁\x0000O corpo do Pokémon lendário\xfffefoi destruído, e dorme\xf000븀\x0000na forma de pedra,\xf000븀\x0000à espera da volta do herói...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Eu vou acordar o Pokémon lendário\xfffedo seu sono.\xf000븁\x0000E eu vou domá-lo, e o mundo\xfffevai reconhecer-me como um herói...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001...O meu sonho é fazer\xfffeum mundo sem conflitos.\xf000븁\x0000Se o mundo for mudado à força,\xfffevai haver quem se oponha.\xf000븁\x0000E quando há oposição,\xfffeos Pokémon é que saem a perder\xf000븀\x0000com o abuso de treinadores idiotas...\xf000븁\x0000Sim... Os Pokémon não são\xfffebrinquedos que as pessoas podem controlar!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001E assim...\xf000븁\x0000Magoa-me  um bocado separar\xfffetreinadores dos seus Pokémon\xf000븀\x0000quando há alguns como tu\xf000븀\x0000que respeitam os outros...\xf000븉\x0001\x0000\xf000븁\x0000
+Aviões! Contempla a sua forma!\xfffeE o design que os faz voar!\xf000븁\x0000\xfffE a mecânica por de trás do voo...\xfffeeles não desperdiçam nada!
+O aeroporto de Fukiyose\xfffesó tem aviões de carga.\xf000븁\x0000\xfffeQuando os treinadores querem voar,\xfffeé para isso que serve o ataque Fly!
+O avô de Miss Furou foi\xfffeum piloto de aviões lendário!\xf000븁\x0000\xfffeOh, a Miss Furou é a líder do ginásio\xfffedesta cidade, é claro!\xf000븀\x0000\xfffeEla é uma raparica tão amável!
+Pokémon e pessoas limparam a \xfffeterra desolada para que todos pudessem viver nela...\xf000븁\x0000\xfffeTenho a certeza que o espírito \xfffenunca vai mudar!
+Se fores cuidadoso, não faz mal\xfffe brincar na estrada!\xf000븁\x0000\xfffeOs aviões de carga só partem\xfffeuma ou duas vezes por dia.
+Parece haver um bom número de\xfffepessoas que viram os seus Pokémon roubados\xf000븀\x0000pela Team Plasma...
+Quando queres vegetais saborosos,\xfffeo melhor é plantá-los naturalmente!\xf000븁\x0000Ter de resistir à mudança de tempo\xfffeparece ajudar no sabor!\xf000븁\x0000Tu sabes porque os Pokémon muitas vezes\xfffecomem-nos enquanto estão a crescer...
+Usar uma estufa é a\xfffemelhor maneira de plantar vegetais!\xf000븁\x0000A temperatura e alimentação\xfffepodem ser sistematicamente controladas.\xf000븁\x0000WSem desperdiçar nada,\xfffeos vegetais acabam por ficar perfeitos e saborosos!
+Ahhh!\xfffeTu descobriste o nosso tesouro!!\xf000븁\x0000
+Tu descobriste-o!!\xf000븁\x0000
+Oh, não...\xf000븁\x0000Os nossos Pokémon não são dignos!\xfffeNós estávamos a tentar esconder\xf000븀\x0000esta Technical Machine, mas...\xf000븁\x0000Mas como nós não somos dignos,\xfffevocê pode usá-la, senhor!\xf000븁\x0000Nós conseguimos arranjar outra\xfffede Miss Furou a qualquer altura!\xf000븁\x0000
+Oh, não...\xf000븁\x0000Os nossos Pokémon não são dignos!\xfffeNós estávamos a tentar esconder\xf000븀\x0000esta Technical Machine, mas...\xf000븁\x0000Mas como nós não somos dignos,\xfffevocê pode usá-la, senhor!\xf000븁\x0000Nós conseguimos arranjar outra\xfffede Miss Furou a qualquer altura!\xf000븁\x0000
+USA-A!!\xf000븁\x0000
+Adeus! Adeusinho!!\xf000븁\x0000
+Cidade de Fukiyose\xfffeOnde o vento traz Furouwers!
+Serviço de Cargas de Fukiyose\xfffeRápido e Seguro!
+Ginásio de Pokémon de Fukiyose\xfffeLíder: Furou\xf000븀\x0000\xfffeO Planador dos Céus
