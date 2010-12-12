@@ -1,40 +1,40 @@
-I finally get to eat!\xfffeIt was a long wait, but now I have it!\xf000븁\x0000
-I've come from far-off Karakusa Town\xfffeto experience this flavor!\xf000븁\x0000
-The ice cream here!\xfffeIt's super-DUPER popular!!\xf000븁\x0000
-Au naturel for the famous shop!\xfffeJust look at that crowd! Amazing!\xf000븁\x0000
-Yeah? You can buy\xfffeHiun City's famous ice cream here.\xf000븁\x0000You lining up for it, too?
-Well!\xfffeThere is quite a line, though!\xf000븁\x0000But it's definitely tasty,\xfffeso I say it's worth the wait!\xf000븁\x0000
-Huh, too crowded for you?\xf000븁\x0000Well, just between you and me...\xfffeWhen it's crowded like today,\xf000븀\x0000it's pretty much always sold out.\xf000븁\x0000
-Hm? Here, you can buy\xfffeHiun City's famous Hiun Ice!\xf000븁\x0000But it looks like\xfffethey're already sold out today...\xf000븁\x0000
-Hm? Here, you can buy\xfffeHiun City's famous Hiun Ice!\xf000븁\x0000But it looks like\xfffethey're already sold out today...\xf000븀\x0000Come again another day!\xf000븁\x0000
-Welcome to the spot for\xfffeHiun City's famous Hiun Ice!\xf000븁\x0000Will you buy one\xfffefor a scant $100?
-Huh?! You seriously won't buy?\xfffeBut you know it'll sell out soon!
-Thank you very much!\xf000븁\x0000Enjoy the cute color\xfffeand the pure flavor!\xf000븁\x0000
-Thank you very much!\xf000븁\x0000...Oh, oh, oh?\xfffeYou don't seem to have enough.\xf000븀\x0000Please come again!\xf000븁\x0000
-Thank you very much!\xf000븁\x0000...Oh, oh, oh?\xfffeYour bag seems to be full.\xf000븀\x0000Please come again!\xf000븁\x0000
-And after all that waiting in line...\xfffeWell, um, please come again!\xf000븁\x0000
-Here, we sell Hiun City's\xfffefamous Hiun Ice!\xf000븁\x0000But the owner figured\xfffewe should close shop for winter...\xf000븀\x0000Please come again when it gets warm!
-Buy
-Quit
-Hiun Atelier
-Hiun's Famous Hiun Ice\xfffeOn break for the freezing winter.
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
+Finalmente consegui comer!\xfffeFoi uma longa espera, mas agora tenho!\xf000븁\x0000
+Eu vim de longe da Vila Karakusa\xfffepara experimentar este aroma!\xf000븁\x0000
+O gelado desta zona!\xfffeÉ super popular!!\xf000븁\x0000
+Uma natural para a famosa loja!\xfffeOlha só para a multidão! Chocante!\xf000븁\x0000
+Sim? Podes comprar o famoso\xfffegelado da Cidade Hiun aqui.\xf000븁\x0000Também alinhas?
+Bem!\xfffeHá realmente uma fila enorme!\xf000븁\x0000Mas é defenitivamente saboroso,\xfffepor isso digo que vale a pena esperar!\xf000븁\x0000
+Huh, muita multidão para ti?\xf000븁\x0000Bem, só entre tu e eu...\xfffeQuando está cheio de gente como hoje,\xf000븀\x0000é quase sempre tudo vendido.\xf000븁\x0000
+Hm? Aqui, podes comprar o famoso Gelado Hiun\xfffeda Cidade Hiun\xf000븁\x0000Mas parece que\xfffejá se esgotaram hoje...\xf000븁\x0000
+Hm? Aqui, podes comprar o famoso Gelado Hiun\xfffeda Cidade Hiun!\xf000븁\x0000Mas parece que\xfffejá se esgotaram hoje...\xf000븀\x0000Volta noutro dia!\xf000븁\x0000
+Bem-vindo ao  local para\xfffeo famoso Gelado Hiun da Cidade Hiun!\xf000븁\x0000Vais comprar um\xfffepor uns escassos $100?
+Huh?! A sério que não vais comprar?\xfffeMas sabes que se vai vender em breve!
+Muito obrigado!\xf000븁\x0000Aproveite a linda cor\xfffee o puro sabor!\xf000븁\x0000
+Muito obrigado!\xf000븁\x0000...Oh, oh, oh?\xfffePareces que não tens suficiente.\xf000븀\x0000Volta noutra altura!\xf000븁\x0000
+Muito obrigado!\xf000븁\x0000...Oh, oh, oh?\xfffeA tua mochila parece estar cheia.\xf000븀\x0000Volta noutra altura!\xf000븁\x0000
+E depois de tudo à que esperar na fila...\xfffeBem, hum, volta noutra altura!\xf000븁\x0000
+Aqui, vendemos o famoso Gelado Hiun\xfffeda Cidade Hiun!\xf000븁\x0000Mas o proprietário percebeu que\xfffe deveriamos fechar a loja para o Inverno...\xf000븀\x0000Volta quando estiver mais calor!
+Comprar
+Sair
+Atelier Hiun
+Famoso Gelado Hiun de Hiun\xfffeNa pausa pelo Inverno gelado.
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
+sem dados
